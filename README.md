@@ -1,6 +1,10 @@
 # Console Bookstore
 
+![](/bookshop.jpg)
+
+
 ## Description
+
 
    This is a console-based application that facilitates the purchasing of books. 
 	An employee can add these items to an inventory and manage offers for those those books while a customer can view the available books and make offers.
