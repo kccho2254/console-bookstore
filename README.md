@@ -1,6 +1,5 @@
 # Console Bookstore
 
-![](/bookshopDB.jpg)
 
 
 ## Description
@@ -35,6 +34,10 @@
 * As an employee, I can edit existing items. 
 
 
+![](./bookshopDB.png)
+
+
+
 ## Languages Used
 
 Java
@@ -49,3 +52,6 @@ PostgreSQL 13
 - ```CONNECTION_PASSWORD = <Database password>```
 - ```CONNECTION_URL = jdbc:postgresql://localhost:5432/BookShopDB```
 - Run the Java files in your terminal with the ```javac``` command
+
+
+
