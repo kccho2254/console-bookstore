@@ -50,7 +50,7 @@ PostgreSQL 13
 - Setup the following environment variables:
 - ```CONNECTION_USERNAME = <Database username>```
 - ```CONNECTION_PASSWORD = <Database password>```
-- ```CONNECTION_URL = jdbc:postgresql://localhost:5432/BookShopDB```
+- ```CONNECTION_URL = jdbc:postgresql://localhost:5432/<Database name>```
 - Run the Java files in your terminal with the ```javac``` command
 
 
