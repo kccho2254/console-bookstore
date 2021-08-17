@@ -1,0 +1,1850 @@
+2021-05-05 00:37:38,838 Starting app...
+2021-05-05 00:41:34,925 Starting app...
+2021-05-05 00:41:39,218 User ID: 2
+2021-05-05 00:41:39,218 Username: kcho
+2021-05-05 00:41:39,218 User ID: root
+2021-05-05 00:46:35,008 Starting app...
+2021-05-05 00:46:42,934 User was logged in!
+2021-05-05 00:46:42,934 User ID: 2
+2021-05-05 00:46:42,934 Username: kcho
+2021-05-05 00:46:42,934 User ID: root
+2021-05-05 00:47:15,368 Current offers: 
+2021-05-05 00:47:15,368 Offer ID: 32
+2021-05-05 00:47:15,368 Item name: The Complete Plays
+2021-05-05 00:47:15,368 Book author: Christopher Marlowe
+2021-05-05 00:47:15,368 Price: 30.99
+2021-05-05 00:57:23,311 Starting app...
+2021-05-05 00:57:29,165 User was logged in!
+2021-05-05 00:57:29,165 User ID: 2
+2021-05-05 00:57:29,165 Username: kcho
+2021-05-05 00:57:29,165 User ID: root
+2021-05-05 00:57:44,935 Starting app...
+2021-05-05 00:57:48,278 User was logged in!
+2021-05-05 00:57:48,278 User ID: 2
+2021-05-05 00:57:48,278 Username: kcho
+2021-05-05 00:57:48,278 User ID: root
+2021-05-05 00:57:52,381 User added an offer on book name: The Complete Plays
+2021-05-05 00:57:52,381 Of the amount: 30.99
+2021-05-05 01:16:18,279 Starting app...
+2021-05-05 01:17:26,210 Starting app...
+2021-05-05 01:17:30,324 Employee logged in as: kcho with password root
+2021-05-05 01:17:34,231 Employee 1 with username kcho viewed all books:
+2021-05-05 01:17:34,231 Book name: The Bible
+2021-05-05 01:17:34,231 Book author: Various, et. al
+2021-05-05 01:17:34,231 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:17:34,231 Book owner: 2
+2021-05-05 01:17:34,233 Book price: 12.99
+2021-05-05 01:17:34,233 Employee 1 with username kcho viewed all books:
+2021-05-05 01:17:34,233 Book name: The Complete Plays
+2021-05-05 01:17:34,233 Book author: Christopher Marlowe
+2021-05-05 01:17:34,233 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:17:34,233 Book owner: 0
+2021-05-05 01:17:34,233 Book price: 30.99
+2021-05-05 01:17:53,911 Starting app...
+2021-05-05 01:18:41,616 User was logged in!
+2021-05-05 01:18:41,616 User ID: 2
+2021-05-05 01:18:41,616 Username: kcho
+2021-05-05 01:18:41,617 User password: root
+2021-05-05 01:18:43,618 Employee 1 with username kcho viewed all books:
+2021-05-05 01:18:43,618 Book name: The Bible
+2021-05-05 01:18:43,618 Book author: Various, et. al
+2021-05-05 01:18:43,618 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:18:43,618 Book owner: 2
+2021-05-05 01:18:43,618 Book price: 12.99
+2021-05-05 01:18:43,618 Employee 1 with username kcho viewed all books:
+2021-05-05 01:18:43,618 Book name: The Complete Plays
+2021-05-05 01:18:43,618 Book author: Christopher Marlowe
+2021-05-05 01:18:43,618 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:18:43,618 Book owner: 2
+2021-05-05 01:18:43,618 Book price: 30.99
+2021-05-05 01:18:48,081 Employee 1 with username kcho viewed all books:
+2021-05-05 01:18:48,081 Book name: The Bible
+2021-05-05 01:18:48,081 Book author: Various, et. al
+2021-05-05 01:18:48,081 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:18:48,081 Book owner: 2
+2021-05-05 01:18:48,081 Book price: 12.99
+2021-05-05 01:18:48,081 Employee 1 with username kcho viewed all books:
+2021-05-05 01:18:48,081 Book name: The Complete Plays
+2021-05-05 01:18:48,081 Book author: Christopher Marlowe
+2021-05-05 01:18:48,081 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:18:48,081 Book owner: 2
+2021-05-05 01:18:48,081 Book price: 30.99
+2021-05-05 01:18:55,932 Employee 1 with username kcho viewed all books:
+2021-05-05 01:18:55,932 Book name: The Bible
+2021-05-05 01:18:55,932 Book author: Various, et. al
+2021-05-05 01:18:55,932 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:18:55,933 Book owner: 2
+2021-05-05 01:18:55,933 Book price: 12.99
+2021-05-05 01:18:55,933 Employee 1 with username kcho viewed all books:
+2021-05-05 01:18:55,933 Book name: The Complete Plays
+2021-05-05 01:18:55,933 Book author: Christopher Marlowe
+2021-05-05 01:18:55,933 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:18:55,933 Book owner: 2
+2021-05-05 01:18:55,933 Book price: 30.99
+2021-05-05 01:18:57,258 Employee 1 with username kcho viewed all books:
+2021-05-05 01:18:57,258 Book name: The Bible
+2021-05-05 01:18:57,258 Book author: Various, et. al
+2021-05-05 01:18:57,258 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:18:57,258 Book owner: 2
+2021-05-05 01:18:57,258 Book price: 12.99
+2021-05-05 01:18:57,258 Employee 1 with username kcho viewed all books:
+2021-05-05 01:18:57,258 Book name: The Complete Plays
+2021-05-05 01:18:57,258 Book author: Christopher Marlowe
+2021-05-05 01:18:57,259 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:18:57,259 Book owner: 2
+2021-05-05 01:18:57,259 Book price: 30.99
+2021-05-05 01:19:02,481 Employee 1 with username kcho viewed all books:
+2021-05-05 01:19:02,481 Book name: The Bible
+2021-05-05 01:19:02,481 Book author: Various, et. al
+2021-05-05 01:19:02,481 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:19:02,482 Book owner: 2
+2021-05-05 01:19:02,482 Book price: 12.99
+2021-05-05 01:19:02,482 Employee 1 with username kcho viewed all books:
+2021-05-05 01:19:02,482 Book name: The Complete Plays
+2021-05-05 01:19:02,482 Book author: Christopher Marlowe
+2021-05-05 01:19:02,482 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:19:02,482 Book owner: 2
+2021-05-05 01:19:02,482 Book price: 30.99
+2021-05-05 01:19:03,678 Employee 1 with username kcho viewed all books:
+2021-05-05 01:19:03,678 Book name: The Bible
+2021-05-05 01:19:03,678 Book author: Various, et. al
+2021-05-05 01:19:03,678 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:19:03,678 Book owner: 2
+2021-05-05 01:19:03,678 Book price: 12.99
+2021-05-05 01:19:03,678 Employee 1 with username kcho viewed all books:
+2021-05-05 01:19:03,678 Book name: The Complete Plays
+2021-05-05 01:19:03,678 Book author: Christopher Marlowe
+2021-05-05 01:19:03,678 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:19:03,678 Book owner: 2
+2021-05-05 01:19:03,678 Book price: 30.99
+2021-05-05 01:19:50,714 Approved items for User ID: 2
+2021-05-05 01:19:50,714 Name: The Bible
+2021-05-05 01:19:50,714 Author: Various, et. al
+2021-05-05 01:19:50,714 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:19:50,714 Price: 12.99
+2021-05-05 01:19:50,714 Approved items for User ID: 2
+2021-05-05 01:19:50,714 Name: The Complete Plays
+2021-05-05 01:19:50,714 Author: Christopher Marlowe
+2021-05-05 01:19:50,714 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:19:50,714 Price: 30.99
+2021-05-05 01:21:13,244 Employee 1 with username kcho viewed all books:
+2021-05-05 01:21:13,244 Book name: The Bible
+2021-05-05 01:21:13,244 Book author: Various, et. al
+2021-05-05 01:21:13,244 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:21:13,244 Book owner: 2
+2021-05-05 01:21:13,244 Book price: 12.99
+2021-05-05 01:21:13,244 Employee 1 with username kcho viewed all books:
+2021-05-05 01:21:13,244 Book name: The Complete Plays
+2021-05-05 01:21:13,244 Book author: Christopher Marlowe
+2021-05-05 01:21:13,244 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:21:13,244 Book owner: 2
+2021-05-05 01:21:13,244 Book price: 30.99
+2021-05-05 01:21:17,144 Approved items for User ID: 2
+2021-05-05 01:21:17,144 Name: The Bible
+2021-05-05 01:21:17,144 Author: Various, et. al
+2021-05-05 01:21:17,144 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:21:17,145 Price: 12.99
+2021-05-05 01:21:17,145 Approved items for User ID: 2
+2021-05-05 01:21:17,145 Name: The Complete Plays
+2021-05-05 01:21:17,145 Author: Christopher Marlowe
+2021-05-05 01:21:17,145 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:21:17,145 Price: 30.99
+2021-05-05 01:21:19,128 Remaining payments for User ID: 2
+2021-05-05 01:21:19,128 Item name: The Bible
+2021-05-05 01:21:19,128 Amount paid: 0.0
+2021-05-05 01:21:19,128 Amount outstanding: 12.99
+2021-05-05 01:21:19,128 Remaining payments for User ID: 2
+2021-05-05 01:21:19,128 Item name: The Complete Plays
+2021-05-05 01:21:19,128 Amount paid: 0.0
+2021-05-05 01:21:19,128 Amount outstanding: 30.99
+2021-05-05 01:21:22,712 Approved items for User ID: 2
+2021-05-05 01:21:22,712 Name: The Bible
+2021-05-05 01:21:22,712 Author: Various, et. al
+2021-05-05 01:21:22,712 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:21:22,712 Price: 12.99
+2021-05-05 01:21:22,712 Approved items for User ID: 2
+2021-05-05 01:21:22,712 Name: The Complete Plays
+2021-05-05 01:21:22,712 Author: Christopher Marlowe
+2021-05-05 01:21:22,712 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:21:22,712 Price: 30.99
+2021-05-05 01:21:23,711 Remaining payments for User ID: 2
+2021-05-05 01:21:23,711 Item name: The Bible
+2021-05-05 01:21:23,711 Amount paid: 0.0
+2021-05-05 01:21:23,711 Amount outstanding: 12.99
+2021-05-05 01:21:23,711 Remaining payments for User ID: 2
+2021-05-05 01:21:23,711 Item name: The Complete Plays
+2021-05-05 01:21:23,711 Amount paid: 0.0
+2021-05-05 01:21:23,711 Amount outstanding: 30.99
+2021-05-05 01:21:31,971 User made a payment
+2021-05-05 01:21:31,971 true
+2021-05-05 01:21:35,632 Approved items for User ID: 2
+2021-05-05 01:21:35,632 Name: The Bible
+2021-05-05 01:21:35,632 Author: Various, et. al
+2021-05-05 01:21:35,632 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:21:35,632 Price: 12.99
+2021-05-05 01:21:35,632 Approved items for User ID: 2
+2021-05-05 01:21:35,632 Name: The Complete Plays
+2021-05-05 01:21:35,632 Author: Christopher Marlowe
+2021-05-05 01:21:35,632 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:21:35,632 Price: 30.99
+2021-05-05 01:21:38,138 Remaining payments for User ID: 2
+2021-05-05 01:21:38,138 Item name: The Bible
+2021-05-05 01:21:38,138 Amount paid: 0.0
+2021-05-05 01:21:38,138 Amount outstanding: 12.99
+2021-05-05 01:21:38,138 Remaining payments for User ID: 2
+2021-05-05 01:21:38,138 Item name: The Complete Plays
+2021-05-05 01:21:38,138 Amount paid: 12.5
+2021-05-05 01:21:38,138 Amount outstanding: 18.49
+2021-05-05 01:54:50,446 Starting app...
+2021-05-05 01:55:10,358 Approved items for User ID: 0
+2021-05-05 01:55:13,643 Employee 0 with username null viewed all books:
+2021-05-05 01:55:13,643 Book name: The Bible
+2021-05-05 01:55:13,643 Book author: Various, et. al
+2021-05-05 01:55:13,643 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 01:55:13,643 Book owner: 2
+2021-05-05 01:55:13,644 Book price: 12.99
+2021-05-05 01:55:13,644 Employee 0 with username null viewed all books:
+2021-05-05 01:55:13,644 Book name: The Complete Plays
+2021-05-05 01:55:13,644 Book author: Christopher Marlowe
+2021-05-05 01:55:13,644 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 01:55:13,644 Book owner: 2
+2021-05-05 01:55:13,644 Book price: 30.99
+2021-05-05 01:55:15,131 Starting app...
+2021-05-05 01:55:17,464 Quitting app
+2021-05-05 02:19:41,617 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 02:20:30,804 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 02:22:45,446 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 03:03:55,316 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 03:27:33,827 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 03:37:09,712 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 03:37:21,644 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 03:42:14,230 Starting app...
+2021-05-05 03:42:30,880 Employee signed up as kcho with password root
+2021-05-05 03:42:35,190 Starting app...
+2021-05-05 03:42:39,016 Starting app...
+2021-05-05 03:42:44,739 Employee logged in as: kcho with password root
+2021-05-05 03:42:46,066 Starting app...
+2021-05-05 03:42:53,804 Starting app...
+2021-05-05 03:46:10,566 Starting app...
+2021-05-05 03:46:50,833 Starting app...
+2021-05-05 03:49:26,707 Starting app...
+2021-05-05 03:51:04,267 Starting app...
+2021-05-05 03:52:29,731 Starting app...
+2021-05-05 03:52:33,278 Starting app...
+2021-05-05 03:52:39,000 Starting app...
+2021-05-05 03:52:50,392 User was logged in!
+2021-05-05 03:52:50,392 User ID: 10
+2021-05-05 03:52:50,392 Username: kcho
+2021-05-05 03:52:50,392 User password: rot
+2021-05-05 03:53:05,408 Starting app...
+2021-05-05 03:53:09,298 User was logged in!
+2021-05-05 03:53:09,298 User ID: 10
+2021-05-05 03:53:09,298 Username: kcho
+2021-05-05 03:53:09,298 User password: rot
+2021-05-05 03:53:13,799 Starting app...
+2021-05-05 03:53:19,620 Employee logged in as: kcho with password root
+2021-05-05 03:53:21,248 Starting app...
+2021-05-05 03:53:29,823 Employee logged in as: kcho with password root
+2021-05-05 03:53:51,557 Starting app...
+2021-05-05 03:53:56,906 Starting app...
+2021-05-05 03:54:09,413 Employee signed up as kcho with password roo
+2021-05-05 03:54:18,597 Starting app...
+2021-05-05 03:55:37,245 Starting app...
+2021-05-05 03:55:40,771 User was logged in!
+2021-05-05 03:55:40,771 User ID: 2
+2021-05-05 03:55:40,771 Username: kcho
+2021-05-05 03:55:40,771 User password: root
+2021-05-05 03:58:06,466 Starting app...
+2021-05-05 03:59:19,309 User was logged in!
+2021-05-05 03:59:19,309 User ID: 2
+2021-05-05 03:59:19,309 Username: kcho
+2021-05-05 03:59:19,309 User password: root
+2021-05-05 03:59:25,009 Employee 0 with username null viewed all books:
+2021-05-05 03:59:25,009 Book name: The Bible
+2021-05-05 03:59:25,009 Book author: Various, et. al
+2021-05-05 03:59:25,009 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 03:59:25,009 Book owner: 2
+2021-05-05 03:59:25,010 Book price: 12.99
+2021-05-05 03:59:25,010 Employee 0 with username null viewed all books:
+2021-05-05 03:59:25,010 Book name: The Complete Plays
+2021-05-05 03:59:25,010 Book author: Christopher Marlowe
+2021-05-05 03:59:25,010 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 03:59:25,010 Book owner: 2
+2021-05-05 03:59:25,010 Book price: 30.99
+2021-05-05 03:59:26,938 Employee 0 with username null viewed all books:
+2021-05-05 03:59:26,938 Book name: The Bible
+2021-05-05 03:59:26,938 Book author: Various, et. al
+2021-05-05 03:59:26,938 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 03:59:26,938 Book owner: 2
+2021-05-05 03:59:26,938 Book price: 12.99
+2021-05-05 03:59:26,938 Employee 0 with username null viewed all books:
+2021-05-05 03:59:26,938 Book name: The Complete Plays
+2021-05-05 03:59:26,938 Book author: Christopher Marlowe
+2021-05-05 03:59:26,938 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 03:59:26,938 Book owner: 2
+2021-05-05 03:59:26,938 Book price: 30.99
+2021-05-05 03:59:29,683 Starting app...
+2021-05-05 03:59:33,356 Employee logged in as: kcho with password root
+2021-05-05 04:01:21,211 Starting app...
+2021-05-05 04:01:25,930 Starting app...
+2021-05-05 04:01:30,531 User was logged in!
+2021-05-05 04:01:30,531 User ID: 2
+2021-05-05 04:01:30,531 Username: kcho
+2021-05-05 04:01:30,531 User password: root
+2021-05-05 04:01:32,284 Employee 1 with username kcho viewed all books:
+2021-05-05 04:01:32,284 Book name: The Bible
+2021-05-05 04:01:32,284 Book author: Various, et. al
+2021-05-05 04:01:32,284 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:01:32,284 Book owner: 2
+2021-05-05 04:01:32,284 Book price: 12.99
+2021-05-05 04:01:32,284 Employee 1 with username kcho viewed all books:
+2021-05-05 04:01:32,284 Book name: The Complete Plays
+2021-05-05 04:01:32,284 Book author: Christopher Marlowe
+2021-05-05 04:01:32,284 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 04:01:32,284 Book owner: 0
+2021-05-05 04:01:32,284 Book price: 30.99
+2021-05-05 04:01:34,023 Employee 1 with username kcho viewed all books:
+2021-05-05 04:01:34,023 Book name: The Bible
+2021-05-05 04:01:34,023 Book author: Various, et. al
+2021-05-05 04:01:34,023 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:01:34,023 Book owner: 2
+2021-05-05 04:01:34,023 Book price: 12.99
+2021-05-05 04:01:34,023 Employee 1 with username kcho viewed all books:
+2021-05-05 04:01:34,023 Book name: The Complete Plays
+2021-05-05 04:01:34,023 Book author: Christopher Marlowe
+2021-05-05 04:01:34,023 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 04:01:34,023 Book owner: 0
+2021-05-05 04:01:34,023 Book price: 30.99
+2021-05-05 04:01:36,894 User Id2 added an offer on book name: The Complete Plays
+2021-05-05 04:01:36,894 Of the amount: 30.99
+2021-05-05 04:01:39,865 Current offers for user ID: 2
+2021-05-05 04:01:39,865 Offer ID: 34
+2021-05-05 04:01:39,865 Item name: The Complete Plays
+2021-05-05 04:01:39,865 Book author: Christopher Marlowe
+2021-05-05 04:01:39,865 Price: 30.99
+2021-05-05 04:01:43,318 Starting app...
+2021-05-05 04:01:46,893 Employee logged in as: kcho with password root
+2021-05-05 04:03:03,538 Book offer was approved, ID: 5 with customer ID 2
+2021-05-05 04:03:11,341 Starting app...
+2021-05-05 04:03:14,678 Starting app...
+2021-05-05 04:03:18,121 User was logged in!
+2021-05-05 04:03:18,121 User ID: 2
+2021-05-05 04:03:18,121 Username: kcho
+2021-05-05 04:03:18,121 User password: root
+2021-05-05 04:03:19,866 Approved items for User ID: 2
+2021-05-05 04:03:19,866 Name: The Bible
+2021-05-05 04:03:19,866 Author: Various, et. al
+2021-05-05 04:03:19,866 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:03:19,866 Price: 12.99
+2021-05-05 04:03:19,866 Name: The Complete Plays
+2021-05-05 04:03:19,866 Author: Christopher Marlowe
+2021-05-05 04:03:19,866 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 04:03:19,866 Price: 30.99
+2021-05-05 04:03:31,783 Remaining payments for User ID: 2
+2021-05-05 04:03:31,783 Item name: The Bible
+2021-05-05 04:03:31,783 Amount paid: 7.0
+2021-05-05 04:03:31,783 Amount outstanding: 5.99
+2021-05-05 04:03:31,783 Remaining payments for User ID: 2
+2021-05-05 04:03:31,783 Item name: The Complete Plays
+2021-05-05 04:03:31,783 Amount paid: 0.0
+2021-05-05 04:03:31,783 Amount outstanding: 30.99
+2021-05-05 04:03:39,447 Approved items for User ID: 2
+2021-05-05 04:03:39,447 Name: The Bible
+2021-05-05 04:03:39,447 Author: Various, et. al
+2021-05-05 04:03:39,447 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:03:39,447 Price: 12.99
+2021-05-05 04:03:39,447 Name: The Complete Plays
+2021-05-05 04:03:39,447 Author: Christopher Marlowe
+2021-05-05 04:03:39,447 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 04:03:39,447 Price: 30.99
+2021-05-05 04:03:41,849 Remaining payments for User ID: 2
+2021-05-05 04:03:41,849 Item name: The Bible
+2021-05-05 04:03:41,849 Amount paid: 7.0
+2021-05-05 04:03:41,849 Amount outstanding: 5.99
+2021-05-05 04:03:41,849 Remaining payments for User ID: 2
+2021-05-05 04:03:41,849 Item name: The Complete Plays
+2021-05-05 04:03:41,849 Amount paid: 0.0
+2021-05-05 04:03:41,849 Amount outstanding: 30.99
+2021-05-05 04:03:55,525 User made a payment of the amount: 10.5 for book ID: 5
+2021-05-05 04:03:55,525 true
+2021-05-05 04:03:58,577 Approved items for User ID: 2
+2021-05-05 04:03:58,577 Name: The Bible
+2021-05-05 04:03:58,577 Author: Various, et. al
+2021-05-05 04:03:58,577 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:03:58,577 Price: 12.99
+2021-05-05 04:03:58,577 Name: The Complete Plays
+2021-05-05 04:03:58,577 Author: Christopher Marlowe
+2021-05-05 04:03:58,577 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 04:03:58,577 Price: 30.99
+2021-05-05 04:04:00,231 Remaining payments for User ID: 2
+2021-05-05 04:04:00,231 Item name: The Bible
+2021-05-05 04:04:00,231 Amount paid: 7.0
+2021-05-05 04:04:00,231 Amount outstanding: 5.99
+2021-05-05 04:04:00,231 Remaining payments for User ID: 2
+2021-05-05 04:04:00,231 Item name: The Complete Plays
+2021-05-05 04:04:00,231 Amount paid: 10.5
+2021-05-05 04:04:00,231 Amount outstanding: 20.49
+2021-05-05 04:04:46,122 Starting app...
+2021-05-05 04:04:50,358 Employee logged in as: kcho with password root
+2021-05-05 04:04:55,292 Employee 1 with username kcho viewed all books:
+2021-05-05 04:04:55,292 Book name: The Bible
+2021-05-05 04:04:55,292 Book author: Various, et. al
+2021-05-05 04:04:55,292 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:04:55,292 Book owner: 2
+2021-05-05 04:04:55,292 Book price: 12.99
+2021-05-05 04:04:55,292 Employee 1 with username kcho viewed all books:
+2021-05-05 04:04:55,292 Book name: The Complete Plays
+2021-05-05 04:04:55,292 Book author: Christopher Marlowe
+2021-05-05 04:04:55,292 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 04:04:55,292 Book owner: 2
+2021-05-05 04:04:55,292 Book price: 30.99
+2021-05-05 04:04:58,385 Employee 1 with username kcho viewed all books:
+2021-05-05 04:04:58,385 Book name: The Bible
+2021-05-05 04:04:58,385 Book author: Various, et. al
+2021-05-05 04:04:58,385 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:04:58,385 Book owner: 2
+2021-05-05 04:04:58,385 Book price: 12.99
+2021-05-05 04:04:58,385 Employee 1 with username kcho viewed all books:
+2021-05-05 04:04:58,385 Book name: The Complete Plays
+2021-05-05 04:04:58,385 Book author: Christopher Marlowe
+2021-05-05 04:04:58,385 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 04:04:58,385 Book owner: 2
+2021-05-05 04:04:58,385 Book price: 30.99
+2021-05-05 04:05:25,307 Book updated with name (previous): The Bible is now The Bible
+2021-05-05 04:05:25,307 Author(previous): Various, et. al is now Various, et. al
+2021-05-05 04:05:25,307 Price(previous): 12.99 is now 14.99
+2021-05-05 04:05:25,307 Description(previous): The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration. is now The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:05:25,308 1
+2021-05-05 04:05:32,715 Starting app...
+2021-05-05 04:05:37,971 User was logged in!
+2021-05-05 04:05:37,972 User ID: 2
+2021-05-05 04:05:37,972 Username: kcho
+2021-05-05 04:05:37,972 User password: root
+2021-05-05 04:05:39,674 Approved items for User ID: 2
+2021-05-05 04:05:39,675 Name: The Bible
+2021-05-05 04:05:39,675 Author: Various, et. al
+2021-05-05 04:05:39,675 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:05:39,675 Price: 14.99
+2021-05-05 04:05:39,675 Name: The Complete Plays
+2021-05-05 04:05:39,675 Author: Christopher Marlowe
+2021-05-05 04:05:39,675 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 04:05:39,675 Price: 30.99
+2021-05-05 04:05:49,389 Approved items for User ID: 2
+2021-05-05 04:05:49,389 Name: The Bible
+2021-05-05 04:05:49,389 Author: Various, et. al
+2021-05-05 04:05:49,389 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 04:05:49,389 Price: 14.99
+2021-05-05 04:05:49,389 Name: The Complete Plays
+2021-05-05 04:05:49,389 Author: Christopher Marlowe
+2021-05-05 04:05:49,389 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 04:05:49,389 Price: 30.99
+2021-05-05 04:05:51,913 Remaining payments for User ID: 2
+2021-05-05 04:05:51,913 Item name: The Complete Plays
+2021-05-05 04:05:51,913 Amount paid: 10.5
+2021-05-05 04:05:51,913 Amount outstanding: 20.49
+2021-05-05 04:05:51,913 Remaining payments for User ID: 2
+2021-05-05 04:05:51,913 Item name: The Bible
+2021-05-05 04:05:51,913 Amount paid: 7.0
+2021-05-05 04:05:51,913 Amount outstanding: 5.99
+2021-05-05 04:18:13,509 Starting app...
+2021-05-05 04:18:35,353 Employee logged in as: kcho with password root
+2021-05-05 04:18:36,824 Starting app...
+2021-05-05 04:22:31,458 Employee signed up as Bob with password Ross
+2021-05-05 04:38:46,029 Employee logged in as: Bob with password Ross
+2021-05-05 04:43:39,965 Starting app...
+2021-05-05 04:43:44,740 Employee logged in as: kcho with password root
+2021-05-05 04:43:47,349 Starting app...
+2021-05-05 04:43:49,927 Starting app...
+2021-05-05 04:43:54,607 Starting app...
+2021-05-05 04:44:18,582 Employee logged in as: Bob with password Ross
+2021-05-05 04:44:35,038 Employee logged in as: Bob with password Ross
+2021-05-05 04:46:44,919 Employee logged in as: Bob with password Ross
+2021-05-05 04:46:58,916 Employee logged in as: Bob with password Ross
+2021-05-05 04:49:02,633 Employee logged in as: Bob with password Ross
+2021-05-05 04:49:12,748 Starting app...
+2021-05-05 04:49:24,283 Employee logged in as: Bob with password Ross
+2021-05-05 04:49:26,652 Starting app...
+2021-05-05 04:49:32,951 Employee logged in as: Bob with password Ross
+2021-05-05 04:49:49,779 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 04:52:53,856 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 04:53:13,665 Starting app...
+2021-05-05 04:53:34,249 Starting app...
+2021-05-05 04:55:15,655 Starting app...
+2021-05-05 04:55:31,496 Starting app...
+2021-05-05 04:55:44,723 Starting app...
+2021-05-05 04:56:00,259 Starting app...
+2021-05-05 05:00:48,224 Starting app...
+2021-05-05 05:02:19,313 Starting app...
+2021-05-05 05:03:00,042 Starting app...
+2021-05-05 05:03:53,399 Starting app...
+2021-05-05 05:04:12,269 Starting app...
+2021-05-05 05:06:08,774 Starting app...
+2021-05-05 05:07:05,425 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 05:07:19,633 Starting app...
+2021-05-05 05:08:52,894 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 05:08:54,838 Starting app...
+2021-05-05 05:09:43,021 User made a payment of the amount: 1.0 for book ID: 4
+2021-05-05 05:09:44,805 Starting app...
+2021-05-05 05:14:07,665 Employee logged in as: Bob with password Ross
+2021-05-05 05:16:31,004 Employee logged in as: Bob with password Ross
+2021-05-05 05:17:08,042 Employee logged in as: Bob with password Ross
+2021-05-05 05:27:03,708 Starting app...
+2021-05-05 05:41:46,798 Starting app...
+2021-05-05 05:42:18,422 Starting app...
+2021-05-05 05:46:01,994 Starting app...
+2021-05-05 05:46:10,655 Starting app...
+2021-05-05 05:55:20,861 Starting app...
+2021-05-05 05:55:38,342 Starting app...
+2021-05-05 05:57:08,423 User was logged in!
+2021-05-05 05:57:08,424 User ID: 2
+2021-05-05 05:57:08,424 Username: kcho
+2021-05-05 05:57:08,424 User password: root
+2021-05-05 05:57:10,721 Employee 0 with username null viewed all books:
+2021-05-05 05:57:10,721 Book name: The Complete Plays
+2021-05-05 05:57:10,721 Book author: Christopher Marlowe
+2021-05-05 05:57:10,721 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 05:57:10,721 Book owner: 2
+2021-05-05 05:57:10,722 Book price: 30.99
+2021-05-05 05:57:10,722 Employee 0 with username null viewed all books:
+2021-05-05 05:57:10,722 Book name: The Bible
+2021-05-05 05:57:10,722 Book author: Various, et. al
+2021-05-05 05:57:10,722 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 05:57:10,722 Book owner: 2
+2021-05-05 05:57:10,722 Book price: 14.99
+2021-05-05 05:58:53,810 Employee 0 with username null viewed all books:
+2021-05-05 05:58:53,810 Book name: The Complete Plays
+2021-05-05 05:58:53,810 Book author: Christopher Marlowe
+2021-05-05 05:58:53,810 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 05:58:53,810 Book owner: 2
+2021-05-05 05:58:53,810 Book price: 30.99
+2021-05-05 05:58:53,811 Employee 0 with username null viewed all books:
+2021-05-05 05:58:53,811 Book name: The Bible
+2021-05-05 05:58:53,811 Book author: Various, et. al
+2021-05-05 05:58:53,811 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 05:58:53,811 Book owner: 0
+2021-05-05 05:58:53,811 Book price: 12.99
+2021-05-05 06:01:12,828 Employee logged in as: kcho with password root
+2021-05-05 06:09:37,853 Employee 0 with username null viewed all books:
+2021-05-05 06:09:37,853 Book name: The Complete Plays
+2021-05-05 06:09:37,853 Book author: Christopher Marlowe
+2021-05-05 06:09:37,853 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:09:37,853 Book owner: 2
+2021-05-05 06:09:37,854 Book price: 30.99
+2021-05-05 06:09:37,854 Employee 0 with username null viewed all books:
+2021-05-05 06:09:37,854 Book name: The Bible
+2021-05-05 06:09:37,854 Book author: Various, et. al
+2021-05-05 06:09:37,854 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:09:37,854 Book owner: 0
+2021-05-05 06:09:37,854 Book price: 12.99
+2021-05-05 06:09:41,139 Employee 0 with username null viewed all books:
+2021-05-05 06:09:41,139 Book name: The Complete Plays
+2021-05-05 06:09:41,139 Book author: Christopher Marlowe
+2021-05-05 06:09:41,139 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:09:41,139 Book owner: 2
+2021-05-05 06:09:41,139 Book price: 30.99
+2021-05-05 06:09:41,139 Employee 0 with username null viewed all books:
+2021-05-05 06:09:41,139 Book name: The Bible
+2021-05-05 06:09:41,139 Book author: Various, et. al
+2021-05-05 06:09:41,139 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:09:41,139 Book owner: 0
+2021-05-05 06:09:41,139 Book price: 12.99
+2021-05-05 06:12:12,167 User was logged in!
+2021-05-05 06:12:12,167 User ID: 2
+2021-05-05 06:12:12,167 Username: kcho
+2021-05-05 06:12:12,167 User password: root
+2021-05-05 06:12:17,200 Approved items for User ID: 2
+2021-05-05 06:12:17,200 Name: The Complete Plays
+2021-05-05 06:12:17,200 Author: Christopher Marlowe
+2021-05-05 06:12:17,200 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:12:17,201 Price: 30.99
+2021-05-05 06:12:21,056 Employee 0 with username null viewed all books:
+2021-05-05 06:12:21,056 Book name: The Complete Plays
+2021-05-05 06:12:21,056 Book author: Christopher Marlowe
+2021-05-05 06:12:21,056 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:12:21,056 Book owner: 2
+2021-05-05 06:12:21,056 Book price: 30.99
+2021-05-05 06:12:21,057 Employee 0 with username null viewed all books:
+2021-05-05 06:12:21,057 Book name: The Bible
+2021-05-05 06:12:21,057 Book author: Various, et. al
+2021-05-05 06:12:21,057 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:12:21,057 Book owner: 0
+2021-05-05 06:12:21,057 Book price: 12.99
+2021-05-05 06:12:22,540 Employee 0 with username null viewed all books:
+2021-05-05 06:12:22,540 Book name: The Complete Plays
+2021-05-05 06:12:22,540 Book author: Christopher Marlowe
+2021-05-05 06:12:22,540 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:12:22,540 Book owner: 2
+2021-05-05 06:12:22,540 Book price: 30.99
+2021-05-05 06:12:22,540 Employee 0 with username null viewed all books:
+2021-05-05 06:12:22,540 Book name: The Bible
+2021-05-05 06:12:22,540 Book author: Various, et. al
+2021-05-05 06:12:22,540 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:12:22,540 Book owner: 0
+2021-05-05 06:12:22,540 Book price: 12.99
+2021-05-05 06:12:23,809 User Id2 added an offer on book name: The Bible
+2021-05-05 06:12:23,809 Of the amount: 12.99
+2021-05-05 06:12:36,970 User was logged in!
+2021-05-05 06:12:36,970 User ID: 16
+2021-05-05 06:12:36,970 Username: testuser
+2021-05-05 06:12:36,970 User password: testpass
+2021-05-05 06:12:40,479 Employee 0 with username null viewed all books:
+2021-05-05 06:12:40,480 Book name: The Complete Plays
+2021-05-05 06:12:40,480 Book author: Christopher Marlowe
+2021-05-05 06:12:40,480 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:12:40,480 Book owner: 2
+2021-05-05 06:12:40,480 Book price: 30.99
+2021-05-05 06:12:40,480 Employee 0 with username null viewed all books:
+2021-05-05 06:12:40,480 Book name: The Bible
+2021-05-05 06:12:40,480 Book author: Various, et. al
+2021-05-05 06:12:40,480 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:12:40,480 Book owner: 0
+2021-05-05 06:12:40,480 Book price: 12.99
+2021-05-05 06:12:43,567 Employee 0 with username null viewed all books:
+2021-05-05 06:12:43,567 Book name: The Complete Plays
+2021-05-05 06:12:43,567 Book author: Christopher Marlowe
+2021-05-05 06:12:43,567 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:12:43,567 Book owner: 2
+2021-05-05 06:12:43,567 Book price: 30.99
+2021-05-05 06:12:43,567 Employee 0 with username null viewed all books:
+2021-05-05 06:12:43,567 Book name: The Bible
+2021-05-05 06:12:43,567 Book author: Various, et. al
+2021-05-05 06:12:43,567 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:12:43,567 Book owner: 0
+2021-05-05 06:12:43,567 Book price: 12.99
+2021-05-05 06:12:52,361 Employee 0 with username null viewed all books:
+2021-05-05 06:12:52,361 Book name: The Complete Plays
+2021-05-05 06:12:52,361 Book author: Christopher Marlowe
+2021-05-05 06:12:52,361 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:12:52,361 Book owner: 2
+2021-05-05 06:12:52,361 Book price: 30.99
+2021-05-05 06:12:52,361 Employee 0 with username null viewed all books:
+2021-05-05 06:12:52,361 Book name: The Bible
+2021-05-05 06:12:52,361 Book author: Various, et. al
+2021-05-05 06:12:52,361 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:12:52,361 Book owner: 0
+2021-05-05 06:12:52,361 Book price: 12.99
+2021-05-05 06:12:58,842 Employee 0 with username null viewed all books:
+2021-05-05 06:12:58,842 Book name: The Complete Plays
+2021-05-05 06:12:58,842 Book author: Christopher Marlowe
+2021-05-05 06:12:58,842 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:12:58,842 Book owner: 2
+2021-05-05 06:12:58,842 Book price: 30.99
+2021-05-05 06:12:58,842 Employee 0 with username null viewed all books:
+2021-05-05 06:12:58,842 Book name: The Bible
+2021-05-05 06:12:58,842 Book author: Various, et. al
+2021-05-05 06:12:58,842 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:12:58,842 Book owner: 0
+2021-05-05 06:12:58,842 Book price: 12.99
+2021-05-05 06:13:02,291 User Id16 added an offer on book name: The Bible
+2021-05-05 06:13:02,291 Of the amount: 12.99
+2021-05-05 06:13:04,451 Current offers for user ID: 16
+2021-05-05 06:13:04,451 Offer ID: 39
+2021-05-05 06:13:04,451 Item name: The Bible
+2021-05-05 06:13:04,452 Book author: Various, et. al
+2021-05-05 06:13:04,452 Price: 12.99
+2021-05-05 06:13:21,415 Approved items for User ID: 16
+2021-05-05 06:14:00,782 Employee signed up as emp with password emp
+2021-05-05 06:14:20,351 Book was added with name: Test title
+2021-05-05 06:14:20,351 Author: Test author
+2021-05-05 06:14:20,351 Price: 12.99
+2021-05-05 06:14:20,351 Description: Test description
+2021-05-05 06:14:23,326 Employee 0 with username emp viewed all books:
+2021-05-05 06:14:23,326 Book name: The Complete Plays
+2021-05-05 06:14:23,326 Book author: Christopher Marlowe
+2021-05-05 06:14:23,326 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:14:23,326 Book owner: 2
+2021-05-05 06:14:23,326 Book price: 30.99
+2021-05-05 06:14:23,327 Employee 0 with username emp viewed all books:
+2021-05-05 06:14:23,327 Book name: The Bible
+2021-05-05 06:14:23,327 Book author: Various, et. al
+2021-05-05 06:14:23,327 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:14:23,327 Book owner: 0
+2021-05-05 06:14:23,327 Book price: 12.99
+2021-05-05 06:14:23,327 Employee 0 with username emp viewed all books:
+2021-05-05 06:14:23,327 Book name: Test title
+2021-05-05 06:14:23,327 Book author: Test author
+2021-05-05 06:14:23,327 Book description: Test description
+2021-05-05 06:14:23,327 Book owner: 0
+2021-05-05 06:14:23,327 Book price: 12.99
+2021-05-05 06:14:29,741 Employee 0 with username emp viewed all books:
+2021-05-05 06:14:29,741 Book name: The Complete Plays
+2021-05-05 06:14:29,741 Book author: Christopher Marlowe
+2021-05-05 06:14:29,741 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:14:29,741 Book owner: 2
+2021-05-05 06:14:29,741 Book price: 30.99
+2021-05-05 06:14:29,741 Employee 0 with username emp viewed all books:
+2021-05-05 06:14:29,741 Book name: The Bible
+2021-05-05 06:14:29,741 Book author: Various, et. al
+2021-05-05 06:14:29,741 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:14:29,741 Book owner: 0
+2021-05-05 06:14:29,741 Book price: 12.99
+2021-05-05 06:14:29,741 Employee 0 with username emp viewed all books:
+2021-05-05 06:14:29,741 Book name: Test title
+2021-05-05 06:14:29,741 Book author: Test author
+2021-05-05 06:14:29,741 Book description: Test description
+2021-05-05 06:14:29,741 Book owner: 0
+2021-05-05 06:14:29,741 Book price: 12.99
+2021-05-05 06:14:52,815 Book updated with name (previous): Test title is now Test title
+2021-05-05 06:14:52,815 Author(previous): Test author is now Test title
+2021-05-05 06:14:52,815 Price(previous): 12.99 is now 20.99
+2021-05-05 06:14:52,815 Description(previous): Test description is now Test description
+2021-05-05 06:14:52,815 1
+2021-05-05 06:14:55,383 Employee 0 with username emp viewed all books:
+2021-05-05 06:14:55,383 Book name: The Complete Plays
+2021-05-05 06:14:55,383 Book author: Christopher Marlowe
+2021-05-05 06:14:55,383 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:14:55,383 Book owner: 2
+2021-05-05 06:14:55,383 Book price: 30.99
+2021-05-05 06:14:55,383 Employee 0 with username emp viewed all books:
+2021-05-05 06:14:55,383 Book name: The Bible
+2021-05-05 06:14:55,383 Book author: Various, et. al
+2021-05-05 06:14:55,383 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:14:55,383 Book owner: 0
+2021-05-05 06:14:55,384 Book price: 12.99
+2021-05-05 06:14:55,384 Employee 0 with username emp viewed all books:
+2021-05-05 06:14:55,384 Book name: Test title
+2021-05-05 06:14:55,384 Book author: Test title
+2021-05-05 06:14:55,384 Book description: Test description
+2021-05-05 06:14:55,384 Book owner: 0
+2021-05-05 06:14:55,384 Book price: 20.99
+2021-05-05 06:15:04,913 Employee 0 with username emp viewed all books:
+2021-05-05 06:15:04,913 Book name: The Complete Plays
+2021-05-05 06:15:04,913 Book author: Christopher Marlowe
+2021-05-05 06:15:04,913 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:15:04,913 Book owner: 2
+2021-05-05 06:15:04,913 Book price: 30.99
+2021-05-05 06:15:04,913 Employee 0 with username emp viewed all books:
+2021-05-05 06:15:04,913 Book name: The Bible
+2021-05-05 06:15:04,913 Book author: Various, et. al
+2021-05-05 06:15:04,913 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:15:04,913 Book owner: 0
+2021-05-05 06:15:04,913 Book price: 12.99
+2021-05-05 06:15:04,913 Employee 0 with username emp viewed all books:
+2021-05-05 06:15:04,913 Book name: Test title
+2021-05-05 06:15:04,913 Book author: Test title
+2021-05-05 06:15:04,913 Book description: Test description
+2021-05-05 06:15:04,913 Book owner: 0
+2021-05-05 06:15:04,913 Book price: 20.99
+2021-05-05 06:15:32,525 Book updated with name (previous): The Complete Plays is now The Complete Plays
+2021-05-05 06:15:32,525 Author(previous): Christopher Marlowe is now Christopher Marlowe
+2021-05-05 06:15:32,525 Price(previous): 30.99 is now 30.99
+2021-05-05 06:15:32,525 Description(previous): Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration. is now Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:15:32,525 1
+2021-05-05 06:16:56,756 Employee 0 with username emp viewed all books:
+2021-05-05 06:16:56,756 Book name: The Bible
+2021-05-05 06:16:56,756 Book author: Various, et. al
+2021-05-05 06:16:56,756 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:16:56,756 Book owner: 0
+2021-05-05 06:16:56,756 Book price: 12.99
+2021-05-05 06:16:56,756 Employee 0 with username emp viewed all books:
+2021-05-05 06:16:56,756 Book name: Test title
+2021-05-05 06:16:56,756 Book author: Test title
+2021-05-05 06:16:56,756 Book description: Test description
+2021-05-05 06:16:56,756 Book owner: 0
+2021-05-05 06:16:56,756 Book price: 20.99
+2021-05-05 06:16:56,756 Employee 0 with username emp viewed all books:
+2021-05-05 06:16:56,756 Book name: The Complete Plays
+2021-05-05 06:16:56,756 Book author: Christopher Marlowe
+2021-05-05 06:16:56,756 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:16:56,756 Book owner: 2
+2021-05-05 06:16:56,756 Book price: 30.99
+2021-05-05 06:17:02,515 Employee 0 with username emp viewed all books:
+2021-05-05 06:17:02,515 Book name: The Bible
+2021-05-05 06:17:02,515 Book author: Various, et. al
+2021-05-05 06:17:02,515 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:17:02,515 Book owner: 0
+2021-05-05 06:17:02,515 Book price: 12.99
+2021-05-05 06:17:02,515 Employee 0 with username emp viewed all books:
+2021-05-05 06:17:02,515 Book name: Test title
+2021-05-05 06:17:02,515 Book author: Test title
+2021-05-05 06:17:02,515 Book description: Test description
+2021-05-05 06:17:02,515 Book owner: 0
+2021-05-05 06:17:02,515 Book price: 20.99
+2021-05-05 06:17:02,515 Employee 0 with username emp viewed all books:
+2021-05-05 06:17:02,515 Book name: The Complete Plays
+2021-05-05 06:17:02,515 Book author: Christopher Marlowe
+2021-05-05 06:17:02,515 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:17:02,515 Book owner: 2
+2021-05-05 06:17:02,515 Book price: 30.99
+2021-05-05 06:17:04,041 User Id16 added an offer on book name: The Bible
+2021-05-05 06:17:04,041 Of the amount: 12.99
+2021-05-05 06:17:06,408 Employee 0 with username emp viewed all books:
+2021-05-05 06:17:06,408 Book name: The Bible
+2021-05-05 06:17:06,408 Book author: Various, et. al
+2021-05-05 06:17:06,408 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:17:06,408 Book owner: 0
+2021-05-05 06:17:06,408 Book price: 12.99
+2021-05-05 06:17:06,408 Employee 0 with username emp viewed all books:
+2021-05-05 06:17:06,408 Book name: Test title
+2021-05-05 06:17:06,408 Book author: Test title
+2021-05-05 06:17:06,408 Book description: Test description
+2021-05-05 06:17:06,408 Book owner: 0
+2021-05-05 06:17:06,408 Book price: 20.99
+2021-05-05 06:17:06,408 Employee 0 with username emp viewed all books:
+2021-05-05 06:17:06,408 Book name: The Complete Plays
+2021-05-05 06:17:06,408 Book author: Christopher Marlowe
+2021-05-05 06:17:06,408 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:17:06,408 Book owner: 2
+2021-05-05 06:17:06,408 Book price: 30.99
+2021-05-05 06:17:08,281 Employee 0 with username emp viewed all books:
+2021-05-05 06:17:08,281 Book name: The Bible
+2021-05-05 06:17:08,281 Book author: Various, et. al
+2021-05-05 06:17:08,281 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:17:08,281 Book owner: 0
+2021-05-05 06:17:08,281 Book price: 12.99
+2021-05-05 06:17:08,281 Employee 0 with username emp viewed all books:
+2021-05-05 06:17:08,281 Book name: Test title
+2021-05-05 06:17:08,281 Book author: Test title
+2021-05-05 06:17:08,281 Book description: Test description
+2021-05-05 06:17:08,281 Book owner: 0
+2021-05-05 06:17:08,281 Book price: 20.99
+2021-05-05 06:17:08,281 Employee 0 with username emp viewed all books:
+2021-05-05 06:17:08,281 Book name: The Complete Plays
+2021-05-05 06:17:08,281 Book author: Christopher Marlowe
+2021-05-05 06:17:08,281 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:17:08,281 Book owner: 2
+2021-05-05 06:17:08,281 Book price: 30.99
+2021-05-05 06:17:10,154 User Id16 added an offer on book name: Test title
+2021-05-05 06:17:10,154 Of the amount: 20.99
+2021-05-05 06:17:31,714 Employee signed up as emptesting with password test
+2021-05-05 06:19:59,455 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:19:59,455 Book name: The Bible
+2021-05-05 06:19:59,455 Book author: Various, et. al
+2021-05-05 06:19:59,455 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:19:59,455 Book owner: 0
+2021-05-05 06:19:59,455 Book price: 12.99
+2021-05-05 06:19:59,455 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:19:59,455 Book name: Test title
+2021-05-05 06:19:59,455 Book author: Test title
+2021-05-05 06:19:59,455 Book description: Test description
+2021-05-05 06:19:59,455 Book owner: 0
+2021-05-05 06:19:59,455 Book price: 20.99
+2021-05-05 06:19:59,455 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:19:59,455 Book name: The Complete Plays
+2021-05-05 06:19:59,455 Book author: Christopher Marlowe
+2021-05-05 06:19:59,455 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:19:59,455 Book owner: 2
+2021-05-05 06:19:59,455 Book price: 30.99
+2021-05-05 06:20:00,563 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:20:00,563 Book name: The Bible
+2021-05-05 06:20:00,563 Book author: Various, et. al
+2021-05-05 06:20:00,563 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:20:00,563 Book owner: 0
+2021-05-05 06:20:00,563 Book price: 12.99
+2021-05-05 06:20:00,563 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:20:00,563 Book name: Test title
+2021-05-05 06:20:00,563 Book author: Test title
+2021-05-05 06:20:00,563 Book description: Test description
+2021-05-05 06:20:00,563 Book owner: 0
+2021-05-05 06:20:00,563 Book price: 20.99
+2021-05-05 06:20:00,563 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:20:00,563 Book name: The Complete Plays
+2021-05-05 06:20:00,563 Book author: Christopher Marlowe
+2021-05-05 06:20:00,563 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:20:00,563 Book owner: 2
+2021-05-05 06:20:00,563 Book price: 30.99
+2021-05-05 06:20:03,829 User Id16 added an offer on book name: Test title
+2021-05-05 06:20:03,829 Of the amount: 20.99
+2021-05-05 06:20:04,921 Current offers for user ID: 16
+2021-05-05 06:20:04,921 Offer ID: 39
+2021-05-05 06:20:04,921 Item name: The Bible
+2021-05-05 06:20:04,921 Book author: Various, et. al
+2021-05-05 06:20:04,921 Price: 12.99
+2021-05-05 06:20:04,921 Current offers for user ID: 16
+2021-05-05 06:20:04,921 Offer ID: 40
+2021-05-05 06:20:04,921 Item name: The Bible
+2021-05-05 06:20:04,921 Book author: Various, et. al
+2021-05-05 06:20:04,921 Price: 12.99
+2021-05-05 06:20:04,921 Current offers for user ID: 16
+2021-05-05 06:20:04,921 Offer ID: 41
+2021-05-05 06:20:04,922 Item name: Test title
+2021-05-05 06:20:04,922 Book author: Test title
+2021-05-05 06:20:04,923 Price: 20.99
+2021-05-05 06:20:04,923 Current offers for user ID: 16
+2021-05-05 06:20:04,923 Offer ID: 42
+2021-05-05 06:20:04,923 Item name: Test title
+2021-05-05 06:20:04,923 Book author: Test title
+2021-05-05 06:20:04,923 Price: 20.99
+2021-05-05 06:20:35,225 Current offers for user ID: 16
+2021-05-05 06:20:35,225 Offer ID: 39
+2021-05-05 06:20:35,225 Item name: The Bible
+2021-05-05 06:20:35,225 Book author: Various, et. al
+2021-05-05 06:20:35,225 Price: 12.99
+2021-05-05 06:20:35,225 Current offers for user ID: 16
+2021-05-05 06:20:35,225 Offer ID: 40
+2021-05-05 06:20:35,225 Item name: The Bible
+2021-05-05 06:20:35,225 Book author: Various, et. al
+2021-05-05 06:20:35,225 Price: 12.99
+2021-05-05 06:20:35,225 Current offers for user ID: 16
+2021-05-05 06:20:35,225 Offer ID: 41
+2021-05-05 06:20:35,225 Item name: Test title
+2021-05-05 06:20:35,225 Book author: Test title
+2021-05-05 06:20:35,225 Price: 20.99
+2021-05-05 06:20:35,225 Current offers for user ID: 16
+2021-05-05 06:20:35,225 Offer ID: 42
+2021-05-05 06:20:35,225 Item name: Test title
+2021-05-05 06:20:35,225 Book author: Test title
+2021-05-05 06:20:35,225 Price: 20.99
+2021-05-05 06:20:43,661 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:20:43,661 Book name: The Bible
+2021-05-05 06:20:43,661 Book author: Various, et. al
+2021-05-05 06:20:43,661 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:20:43,661 Book owner: 0
+2021-05-05 06:20:43,661 Book price: 12.99
+2021-05-05 06:20:43,661 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:20:43,661 Book name: Test title
+2021-05-05 06:20:43,661 Book author: Test title
+2021-05-05 06:20:43,661 Book description: Test description
+2021-05-05 06:20:43,661 Book owner: 0
+2021-05-05 06:20:43,661 Book price: 20.99
+2021-05-05 06:20:43,661 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:20:43,661 Book name: The Complete Plays
+2021-05-05 06:20:43,661 Book author: Christopher Marlowe
+2021-05-05 06:20:43,661 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:20:43,661 Book owner: 2
+2021-05-05 06:20:43,661 Book price: 30.99
+2021-05-05 06:20:47,470 Current offers for user ID: 16
+2021-05-05 06:20:47,471 Offer ID: 39
+2021-05-05 06:20:47,471 Item name: The Bible
+2021-05-05 06:20:47,471 Book author: Various, et. al
+2021-05-05 06:20:47,471 Price: 12.99
+2021-05-05 06:20:47,471 Current offers for user ID: 16
+2021-05-05 06:20:47,471 Offer ID: 40
+2021-05-05 06:20:47,471 Item name: The Bible
+2021-05-05 06:20:47,471 Book author: Various, et. al
+2021-05-05 06:20:47,471 Price: 12.99
+2021-05-05 06:20:47,471 Current offers for user ID: 16
+2021-05-05 06:20:47,471 Offer ID: 41
+2021-05-05 06:20:47,471 Item name: Test title
+2021-05-05 06:20:47,471 Book author: Test title
+2021-05-05 06:20:47,471 Price: 20.99
+2021-05-05 06:20:47,471 Current offers for user ID: 16
+2021-05-05 06:20:47,471 Offer ID: 42
+2021-05-05 06:20:47,471 Item name: Test title
+2021-05-05 06:20:47,471 Book author: Test title
+2021-05-05 06:20:47,471 Price: 20.99
+2021-05-05 06:21:43,820 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:21:43,820 Book name: The Bible
+2021-05-05 06:21:43,820 Book author: Various, et. al
+2021-05-05 06:21:43,820 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:21:43,820 Book owner: 0
+2021-05-05 06:21:43,820 Book price: 12.99
+2021-05-05 06:21:43,820 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:21:43,820 Book name: Test title
+2021-05-05 06:21:43,820 Book author: Test title
+2021-05-05 06:21:43,820 Book description: Test description
+2021-05-05 06:21:43,820 Book owner: 0
+2021-05-05 06:21:43,820 Book price: 20.99
+2021-05-05 06:21:43,820 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:21:43,820 Book name: The Complete Plays
+2021-05-05 06:21:43,820 Book author: Christopher Marlowe
+2021-05-05 06:21:43,820 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:21:43,820 Book owner: 2
+2021-05-05 06:21:43,820 Book price: 30.99
+2021-05-05 06:21:45,887 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:21:45,888 Book name: The Bible
+2021-05-05 06:21:45,888 Book author: Various, et. al
+2021-05-05 06:21:45,888 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:21:45,888 Book owner: 0
+2021-05-05 06:21:45,888 Book price: 12.99
+2021-05-05 06:21:45,888 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:21:45,888 Book name: Test title
+2021-05-05 06:21:45,888 Book author: Test title
+2021-05-05 06:21:45,888 Book description: Test description
+2021-05-05 06:21:45,888 Book owner: 0
+2021-05-05 06:21:45,888 Book price: 20.99
+2021-05-05 06:21:45,888 Employee 0 with username emptesting viewed all books:
+2021-05-05 06:21:45,888 Book name: The Complete Plays
+2021-05-05 06:21:45,888 Book author: Christopher Marlowe
+2021-05-05 06:21:45,888 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:21:45,888 Book owner: 2
+2021-05-05 06:21:45,888 Book price: 30.99
+2021-05-05 06:21:52,797 User Id16 added an offer on book name: The Bible
+2021-05-05 06:21:52,797 Of the amount: 12.99
+2021-05-05 06:21:55,264 Current offers for user ID: 16
+2021-05-05 06:21:55,264 Offer ID: 39
+2021-05-05 06:21:55,264 Item name: The Bible
+2021-05-05 06:21:55,264 Book author: Various, et. al
+2021-05-05 06:21:55,264 Price: 12.99
+2021-05-05 06:21:55,264 Current offers for user ID: 16
+2021-05-05 06:21:55,264 Offer ID: 40
+2021-05-05 06:21:55,264 Item name: The Bible
+2021-05-05 06:21:55,264 Book author: Various, et. al
+2021-05-05 06:21:55,264 Price: 12.99
+2021-05-05 06:21:55,264 Current offers for user ID: 16
+2021-05-05 06:21:55,264 Offer ID: 41
+2021-05-05 06:21:55,264 Item name: Test title
+2021-05-05 06:21:55,264 Book author: Test title
+2021-05-05 06:21:55,264 Price: 20.99
+2021-05-05 06:21:55,264 Current offers for user ID: 16
+2021-05-05 06:21:55,264 Offer ID: 42
+2021-05-05 06:21:55,264 Item name: Test title
+2021-05-05 06:21:55,264 Book author: Test title
+2021-05-05 06:21:55,264 Price: 20.99
+2021-05-05 06:21:55,265 Current offers for user ID: 16
+2021-05-05 06:21:55,265 Offer ID: 43
+2021-05-05 06:21:55,265 Item name: The Bible
+2021-05-05 06:21:55,265 Book author: Various, et. al
+2021-05-05 06:21:55,265 Price: 12.99
+2021-05-05 06:22:10,485 Employee logged in as: kcho with password root
+2021-05-05 06:26:53,632 User was logged in!
+2021-05-05 06:26:53,633 User ID: 2
+2021-05-05 06:26:53,633 Username: kcho
+2021-05-05 06:26:53,633 User password: root
+2021-05-05 06:31:29,629 User was logged in!
+2021-05-05 06:31:29,629 User ID: 23
+2021-05-05 06:31:29,629 Username: iop
+2021-05-05 06:31:29,629 User password: iop
+2021-05-05 06:31:37,374 Employee 0 with username null viewed all books:
+2021-05-05 06:31:37,374 Book name: The Bible
+2021-05-05 06:31:37,374 Book author: Various, et. al
+2021-05-05 06:31:37,374 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:31:37,374 Book owner: 0
+2021-05-05 06:31:37,375 Book price: 12.99
+2021-05-05 06:31:37,375 Employee 0 with username null viewed all books:
+2021-05-05 06:31:37,375 Book name: Test title
+2021-05-05 06:31:37,375 Book author: Test title
+2021-05-05 06:31:37,375 Book description: Test description
+2021-05-05 06:31:37,375 Book owner: 0
+2021-05-05 06:31:37,375 Book price: 20.99
+2021-05-05 06:31:37,375 Employee 0 with username null viewed all books:
+2021-05-05 06:31:37,375 Book name: The Complete Plays
+2021-05-05 06:31:37,375 Book author: Christopher Marlowe
+2021-05-05 06:31:37,375 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:31:37,376 Book owner: 2
+2021-05-05 06:31:37,376 Book price: 30.99
+2021-05-05 06:31:42,064 Employee 0 with username null viewed all books:
+2021-05-05 06:31:42,064 Book name: The Bible
+2021-05-05 06:31:42,064 Book author: Various, et. al
+2021-05-05 06:31:42,064 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:31:42,064 Book owner: 0
+2021-05-05 06:31:42,064 Book price: 12.99
+2021-05-05 06:31:42,064 Employee 0 with username null viewed all books:
+2021-05-05 06:31:42,064 Book name: Test title
+2021-05-05 06:31:42,064 Book author: Test title
+2021-05-05 06:31:42,064 Book description: Test description
+2021-05-05 06:31:42,064 Book owner: 0
+2021-05-05 06:31:42,064 Book price: 20.99
+2021-05-05 06:31:42,064 Employee 0 with username null viewed all books:
+2021-05-05 06:31:42,064 Book name: The Complete Plays
+2021-05-05 06:31:42,064 Book author: Christopher Marlowe
+2021-05-05 06:31:42,064 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:31:42,064 Book owner: 2
+2021-05-05 06:31:42,064 Book price: 30.99
+2021-05-05 06:31:43,576 User Id23 added an offer on book name: Test title
+2021-05-05 06:31:43,576 Of the amount: 20.99
+2021-05-05 06:31:45,075 Current offers for user ID: 23
+2021-05-05 06:31:45,075 Offer ID: 44
+2021-05-05 06:31:45,075 Item name: Test title
+2021-05-05 06:31:45,075 Book author: Test title
+2021-05-05 06:31:45,075 Price: 20.99
+2021-05-05 06:31:52,964 Current offers for user ID: 23
+2021-05-05 06:31:52,965 Offer ID: 44
+2021-05-05 06:31:52,965 Item name: Test title
+2021-05-05 06:31:52,965 Book author: Test title
+2021-05-05 06:31:52,965 Price: 20.99
+2021-05-05 06:31:54,380 Employee 0 with username null viewed all books:
+2021-05-05 06:31:54,380 Book name: The Bible
+2021-05-05 06:31:54,380 Book author: Various, et. al
+2021-05-05 06:31:54,380 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:31:54,380 Book owner: 0
+2021-05-05 06:31:54,380 Book price: 12.99
+2021-05-05 06:31:54,380 Employee 0 with username null viewed all books:
+2021-05-05 06:31:54,380 Book name: Test title
+2021-05-05 06:31:54,380 Book author: Test title
+2021-05-05 06:31:54,380 Book description: Test description
+2021-05-05 06:31:54,380 Book owner: 0
+2021-05-05 06:31:54,380 Book price: 20.99
+2021-05-05 06:31:54,380 Employee 0 with username null viewed all books:
+2021-05-05 06:31:54,380 Book name: The Complete Plays
+2021-05-05 06:31:54,380 Book author: Christopher Marlowe
+2021-05-05 06:31:54,380 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:31:54,380 Book owner: 2
+2021-05-05 06:31:54,380 Book price: 30.99
+2021-05-05 06:31:59,099 Employee 0 with username null viewed all books:
+2021-05-05 06:31:59,099 Book name: The Bible
+2021-05-05 06:31:59,099 Book author: Various, et. al
+2021-05-05 06:31:59,099 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:31:59,099 Book owner: 0
+2021-05-05 06:31:59,099 Book price: 12.99
+2021-05-05 06:31:59,099 Employee 0 with username null viewed all books:
+2021-05-05 06:31:59,099 Book name: Test title
+2021-05-05 06:31:59,099 Book author: Test title
+2021-05-05 06:31:59,099 Book description: Test description
+2021-05-05 06:31:59,099 Book owner: 0
+2021-05-05 06:31:59,099 Book price: 20.99
+2021-05-05 06:31:59,099 Employee 0 with username null viewed all books:
+2021-05-05 06:31:59,099 Book name: The Complete Plays
+2021-05-05 06:31:59,099 Book author: Christopher Marlowe
+2021-05-05 06:31:59,099 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:31:59,099 Book owner: 2
+2021-05-05 06:31:59,099 Book price: 30.99
+2021-05-05 06:32:00,310 User Id23 added an offer on book name: The Bible
+2021-05-05 06:32:00,310 Of the amount: 12.99
+2021-05-05 06:32:01,598 Current offers for user ID: 23
+2021-05-05 06:32:01,598 Offer ID: 44
+2021-05-05 06:32:01,598 Item name: Test title
+2021-05-05 06:32:01,598 Book author: Test title
+2021-05-05 06:32:01,598 Price: 20.99
+2021-05-05 06:32:01,598 Current offers for user ID: 23
+2021-05-05 06:32:01,598 Offer ID: 45
+2021-05-05 06:32:01,598 Item name: The Bible
+2021-05-05 06:32:01,598 Book author: Various, et. al
+2021-05-05 06:32:01,598 Price: 12.99
+2021-05-05 06:33:20,191 Employee 0 with username null viewed all books:
+2021-05-05 06:33:20,192 Book name: The Bible
+2021-05-05 06:33:20,192 Book author: Various, et. al
+2021-05-05 06:33:20,192 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:33:20,192 Book owner: 0
+2021-05-05 06:33:20,193 Book price: 12.99
+2021-05-05 06:33:20,193 Employee 0 with username null viewed all books:
+2021-05-05 06:33:20,193 Book name: Test title
+2021-05-05 06:33:20,193 Book author: Test title
+2021-05-05 06:33:20,193 Book description: Test description
+2021-05-05 06:33:20,193 Book owner: 0
+2021-05-05 06:33:20,193 Book price: 20.99
+2021-05-05 06:33:20,193 Employee 0 with username null viewed all books:
+2021-05-05 06:33:20,193 Book name: The Complete Plays
+2021-05-05 06:33:20,193 Book author: Christopher Marlowe
+2021-05-05 06:33:20,193 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:33:20,193 Book owner: 2
+2021-05-05 06:33:20,193 Book price: 30.99
+2021-05-05 06:33:21,708 Employee 0 with username null viewed all books:
+2021-05-05 06:33:21,708 Book name: The Bible
+2021-05-05 06:33:21,708 Book author: Various, et. al
+2021-05-05 06:33:21,708 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:33:21,708 Book owner: 0
+2021-05-05 06:33:21,708 Book price: 12.99
+2021-05-05 06:33:21,708 Employee 0 with username null viewed all books:
+2021-05-05 06:33:21,708 Book name: Test title
+2021-05-05 06:33:21,708 Book author: Test title
+2021-05-05 06:33:21,708 Book description: Test description
+2021-05-05 06:33:21,708 Book owner: 0
+2021-05-05 06:33:21,709 Book price: 20.99
+2021-05-05 06:33:21,709 Employee 0 with username null viewed all books:
+2021-05-05 06:33:21,709 Book name: The Complete Plays
+2021-05-05 06:33:21,709 Book author: Christopher Marlowe
+2021-05-05 06:33:21,709 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:33:21,709 Book owner: 2
+2021-05-05 06:33:21,709 Book price: 30.99
+2021-05-05 06:33:24,956 User Id24 added an offer on book name: Test title
+2021-05-05 06:33:24,956 Of the amount: 20.99
+2021-05-05 06:33:26,166 Current offers for user ID: 24
+2021-05-05 06:33:26,166 Offer ID: 46
+2021-05-05 06:33:26,166 Item name: Test title
+2021-05-05 06:33:26,166 Book author: Test title
+2021-05-05 06:33:26,166 Price: 20.99
+2021-05-05 06:34:44,357 User was logged in!
+2021-05-05 06:34:44,357 User ID: 16
+2021-05-05 06:34:44,357 Username: testuser
+2021-05-05 06:34:44,357 User password: testpass
+2021-05-05 06:34:47,005 Employee 0 with username null viewed all books:
+2021-05-05 06:34:47,005 Book name: The Bible
+2021-05-05 06:34:47,005 Book author: Various, et. al
+2021-05-05 06:34:47,005 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:34:47,005 Book owner: 0
+2021-05-05 06:34:47,005 Book price: 12.99
+2021-05-05 06:34:47,005 Employee 0 with username null viewed all books:
+2021-05-05 06:34:47,005 Book name: Test title
+2021-05-05 06:34:47,005 Book author: Test title
+2021-05-05 06:34:47,005 Book description: Test description
+2021-05-05 06:34:47,005 Book owner: 0
+2021-05-05 06:34:47,005 Book price: 20.99
+2021-05-05 06:34:47,005 Employee 0 with username null viewed all books:
+2021-05-05 06:34:47,005 Book name: The Complete Plays
+2021-05-05 06:34:47,005 Book author: Christopher Marlowe
+2021-05-05 06:34:47,005 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:34:47,005 Book owner: 2
+2021-05-05 06:34:47,006 Book price: 30.99
+2021-05-05 06:34:49,462 Employee 0 with username null viewed all books:
+2021-05-05 06:34:49,462 Book name: The Bible
+2021-05-05 06:34:49,462 Book author: Various, et. al
+2021-05-05 06:34:49,462 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:34:49,462 Book owner: 0
+2021-05-05 06:34:49,462 Book price: 12.99
+2021-05-05 06:34:49,462 Employee 0 with username null viewed all books:
+2021-05-05 06:34:49,462 Book name: Test title
+2021-05-05 06:34:49,462 Book author: Test title
+2021-05-05 06:34:49,462 Book description: Test description
+2021-05-05 06:34:49,462 Book owner: 0
+2021-05-05 06:34:49,462 Book price: 20.99
+2021-05-05 06:34:49,462 Employee 0 with username null viewed all books:
+2021-05-05 06:34:49,462 Book name: The Complete Plays
+2021-05-05 06:34:49,462 Book author: Christopher Marlowe
+2021-05-05 06:34:49,462 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:34:49,462 Book owner: 2
+2021-05-05 06:34:49,462 Book price: 30.99
+2021-05-05 06:34:51,179 User Id16 added an offer on book name: Test title
+2021-05-05 06:34:51,179 Of the amount: 20.99
+2021-05-05 06:34:52,294 Current offers for user ID: 16
+2021-05-05 06:34:52,295 Offer ID: 47
+2021-05-05 06:34:52,295 Item name: Test title
+2021-05-05 06:34:52,295 Book author: Test title
+2021-05-05 06:34:52,295 Price: 20.99
+2021-05-05 06:34:58,404 Approved items for User ID: 16
+2021-05-05 06:35:03,819 Employee logged in as: kcho with password root
+2021-05-05 06:36:45,653 User was logged in!
+2021-05-05 06:36:45,653 User ID: 16
+2021-05-05 06:36:45,653 Username: testuser
+2021-05-05 06:36:45,654 User password: testpass
+2021-05-05 06:36:51,887 Approved items for User ID: 16
+2021-05-05 06:36:51,887 Name: Test title
+2021-05-05 06:36:51,887 Author: Test title
+2021-05-05 06:36:51,887 Description: Test description
+2021-05-05 06:36:51,887 Price: 20.99
+2021-05-05 06:36:59,875 Remaining payments for User ID: 16
+2021-05-05 06:36:59,875 Item name: The Complete Plays
+2021-05-05 06:36:59,875 Amount paid: 10.5
+2021-05-05 06:36:59,875 Amount outstanding: 20.49
+2021-05-05 06:36:59,875 Remaining payments for User ID: 16
+2021-05-05 06:36:59,875 Item name: Test title
+2021-05-05 06:36:59,875 Amount paid: 0.0
+2021-05-05 06:36:59,875 Amount outstanding: 20.99
+2021-05-05 06:38:48,474 User was logged in!
+2021-05-05 06:38:48,474 User ID: 16
+2021-05-05 06:38:48,474 Username: testuser
+2021-05-05 06:38:48,474 User password: testpass
+2021-05-05 06:38:53,382 Approved items for User ID: 16
+2021-05-05 06:38:53,382 Name: Test title
+2021-05-05 06:38:53,382 Author: Test title
+2021-05-05 06:38:53,382 Description: Test description
+2021-05-05 06:38:53,383 Price: 20.99
+2021-05-05 06:39:51,111 User was logged in!
+2021-05-05 06:39:51,112 User ID: 16
+2021-05-05 06:39:51,112 Username: testuser
+2021-05-05 06:39:51,112 User password: testpass
+2021-05-05 06:39:55,235 Approved items for User ID: 16
+2021-05-05 06:39:55,235 Name: Test title
+2021-05-05 06:39:55,235 Author: Test title
+2021-05-05 06:39:55,235 Description: Test description
+2021-05-05 06:39:55,236 Price: 20.99
+2021-05-05 06:40:24,615 User was logged in!
+2021-05-05 06:40:24,616 User ID: 16
+2021-05-05 06:40:24,616 Username: testuser
+2021-05-05 06:40:24,616 User password: testpass
+2021-05-05 06:40:25,741 Approved items for User ID: 16
+2021-05-05 06:40:25,741 Name: Test title
+2021-05-05 06:40:25,741 Author: Test title
+2021-05-05 06:40:25,741 Description: Test description
+2021-05-05 06:40:25,742 Price: 20.99
+2021-05-05 06:40:26,713 Remaining payments for User ID: 16
+2021-05-05 06:40:26,713 Item name: Test title
+2021-05-05 06:40:26,713 Amount paid: 0.0
+2021-05-05 06:40:26,713 Amount outstanding: 20.99
+2021-05-05 06:40:48,162 User was logged in!
+2021-05-05 06:40:48,162 User ID: 2
+2021-05-05 06:40:48,162 Username: kcho
+2021-05-05 06:40:48,162 User password: root
+2021-05-05 06:40:50,627 Approved items for User ID: 2
+2021-05-05 06:40:50,627 Name: The Complete Plays
+2021-05-05 06:40:50,627 Author: Christopher Marlowe
+2021-05-05 06:40:50,627 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:40:50,627 Price: 30.99
+2021-05-05 06:40:52,736 Remaining payments for User ID: 2
+2021-05-05 06:40:52,736 Item name: The Complete Plays
+2021-05-05 06:40:52,736 Amount paid: 10.5
+2021-05-05 06:40:52,736 Amount outstanding: 20.49
+2021-05-05 06:41:11,948 User was logged in!
+2021-05-05 06:41:11,948 User ID: 11
+2021-05-05 06:41:11,948 Username: Bob
+2021-05-05 06:41:11,948 User password: Ross
+2021-05-05 06:41:13,993 Approved items for User ID: 11
+2021-05-05 06:41:18,384 Employee 0 with username null viewed all books:
+2021-05-05 06:41:18,384 Book name: The Bible
+2021-05-05 06:41:18,384 Book author: Various, et. al
+2021-05-05 06:41:18,384 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:41:18,384 Book owner: 0
+2021-05-05 06:41:18,384 Book price: 12.99
+2021-05-05 06:41:18,384 Employee 0 with username null viewed all books:
+2021-05-05 06:41:18,384 Book name: The Complete Plays
+2021-05-05 06:41:18,384 Book author: Christopher Marlowe
+2021-05-05 06:41:18,384 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:41:18,384 Book owner: 2
+2021-05-05 06:41:18,384 Book price: 30.99
+2021-05-05 06:41:18,384 Employee 0 with username null viewed all books:
+2021-05-05 06:41:18,384 Book name: Test title
+2021-05-05 06:41:18,384 Book author: Test title
+2021-05-05 06:41:18,384 Book description: Test description
+2021-05-05 06:41:18,384 Book owner: 16
+2021-05-05 06:41:18,384 Book price: 20.99
+2021-05-05 06:41:58,112 User was logged in!
+2021-05-05 06:41:58,113 User ID: 2
+2021-05-05 06:41:58,113 Username: kcho
+2021-05-05 06:41:58,113 User password: root
+2021-05-05 06:42:04,932 Approved items for User ID: 2
+2021-05-05 06:42:04,932 Name: The Complete Plays
+2021-05-05 06:42:04,932 Author: Christopher Marlowe
+2021-05-05 06:42:04,933 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:42:04,933 Price: 30.99
+2021-05-05 06:42:20,135 User was logged in!
+2021-05-05 06:42:20,135 User ID: 2
+2021-05-05 06:42:20,135 Username: kcho
+2021-05-05 06:42:20,135 User password: root
+2021-05-05 06:42:22,359 Employee 0 with username null viewed all books:
+2021-05-05 06:42:22,359 Book name: The Bible
+2021-05-05 06:42:22,359 Book author: Various, et. al
+2021-05-05 06:42:22,359 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:42:22,359 Book owner: 0
+2021-05-05 06:42:22,360 Book price: 12.99
+2021-05-05 06:42:22,360 Employee 0 with username null viewed all books:
+2021-05-05 06:42:22,360 Book name: The Complete Plays
+2021-05-05 06:42:22,361 Book author: Christopher Marlowe
+2021-05-05 06:42:22,361 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:42:22,361 Book owner: 2
+2021-05-05 06:42:22,361 Book price: 30.99
+2021-05-05 06:42:22,361 Employee 0 with username null viewed all books:
+2021-05-05 06:42:22,361 Book name: Test title
+2021-05-05 06:42:22,361 Book author: Test title
+2021-05-05 06:42:22,361 Book description: Test description
+2021-05-05 06:42:22,361 Book owner: 16
+2021-05-05 06:42:22,361 Book price: 20.99
+2021-05-05 06:42:47,198 User was logged in!
+2021-05-05 06:42:47,199 User ID: 2
+2021-05-05 06:42:47,199 Username: kcho
+2021-05-05 06:42:47,199 User password: root
+2021-05-05 06:42:48,505 Approved items for User ID: 2
+2021-05-05 06:42:48,505 Name: The Complete Plays
+2021-05-05 06:42:48,505 Author: Christopher Marlowe
+2021-05-05 06:42:48,505 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:42:48,506 Price: 30.99
+2021-05-05 06:42:51,318 Remaining payments for User ID: 2
+2021-05-05 06:42:51,318 Item name: The Complete Plays
+2021-05-05 06:42:51,318 Amount paid: 10.5
+2021-05-05 06:42:51,318 Amount outstanding: 20.49
+2021-05-05 06:42:58,905 Approved items for User ID: 2
+2021-05-05 06:42:58,906 Name: The Complete Plays
+2021-05-05 06:42:58,906 Author: Christopher Marlowe
+2021-05-05 06:42:58,906 Description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:42:58,906 Price: 30.99
+2021-05-05 06:43:03,687 Remaining payments for User ID: 2
+2021-05-05 06:43:03,688 Item name: The Complete Plays
+2021-05-05 06:43:03,688 Amount paid: 10.5
+2021-05-05 06:43:03,688 Amount outstanding: 20.49
+2021-05-05 06:43:07,912 Employee 0 with username null viewed all books:
+2021-05-05 06:43:07,912 Book name: The Bible
+2021-05-05 06:43:07,912 Book author: Various, et. al
+2021-05-05 06:43:07,912 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:43:07,912 Book owner: 0
+2021-05-05 06:43:07,912 Book price: 12.99
+2021-05-05 06:43:07,912 Employee 0 with username null viewed all books:
+2021-05-05 06:43:07,912 Book name: The Complete Plays
+2021-05-05 06:43:07,912 Book author: Christopher Marlowe
+2021-05-05 06:43:07,912 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:43:07,912 Book owner: 2
+2021-05-05 06:43:07,912 Book price: 30.99
+2021-05-05 06:43:07,912 Employee 0 with username null viewed all books:
+2021-05-05 06:43:07,912 Book name: Test title
+2021-05-05 06:43:07,912 Book author: Test title
+2021-05-05 06:43:07,912 Book description: Test description
+2021-05-05 06:43:07,912 Book owner: 16
+2021-05-05 06:43:07,913 Book price: 20.99
+2021-05-05 06:43:23,342 Employee logged in as: kcho with password root
+2021-05-05 06:43:30,411 Employee 1 with username kcho viewed all books:
+2021-05-05 06:43:30,411 Book name: The Bible
+2021-05-05 06:43:30,411 Book author: Various, et. al
+2021-05-05 06:43:30,411 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:43:30,411 Book owner: 0
+2021-05-05 06:43:30,411 Book price: 12.99
+2021-05-05 06:43:30,411 Employee 1 with username kcho viewed all books:
+2021-05-05 06:43:30,411 Book name: The Complete Plays
+2021-05-05 06:43:30,411 Book author: Christopher Marlowe
+2021-05-05 06:43:30,411 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:43:30,411 Book owner: 2
+2021-05-05 06:43:30,411 Book price: 30.99
+2021-05-05 06:43:30,411 Employee 1 with username kcho viewed all books:
+2021-05-05 06:43:30,411 Book name: Test title
+2021-05-05 06:43:30,411 Book author: Test title
+2021-05-05 06:43:30,411 Book description: Test description
+2021-05-05 06:43:30,411 Book owner: 16
+2021-05-05 06:43:30,411 Book price: 20.99
+2021-05-05 06:45:20,798 Employee logged in as: kcho with password root
+2021-05-05 06:45:22,992 Employee 1 with username kcho viewed all books:
+2021-05-05 06:45:22,992 Book name: The Bible
+2021-05-05 06:45:22,992 Book author: Various, et. al
+2021-05-05 06:45:22,992 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:45:22,992 Book owner: 0
+2021-05-05 06:45:22,993 Book price: 12.99
+2021-05-05 06:45:22,993 Employee 1 with username kcho viewed all books:
+2021-05-05 06:45:22,993 Book name: The Complete Plays
+2021-05-05 06:45:22,993 Book author: Christopher Marlowe
+2021-05-05 06:45:22,993 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:45:22,993 Book owner: 2
+2021-05-05 06:45:22,993 Book price: 30.99
+2021-05-05 06:45:22,993 Employee 1 with username kcho viewed all books:
+2021-05-05 06:45:22,993 Book name: Test title
+2021-05-05 06:45:22,993 Book author: Test title
+2021-05-05 06:45:22,993 Book description: Test description
+2021-05-05 06:45:22,993 Book owner: 16
+2021-05-05 06:45:22,993 Book price: 20.99
+2021-05-05 06:47:23,760 Employee logged in as: kcho with password root
+2021-05-05 06:47:25,656 Employee 1 with username kcho viewed all books:
+2021-05-05 06:47:25,656 Book name: The Bible
+2021-05-05 06:47:25,656 Book author: Various, et. al
+2021-05-05 06:47:25,656 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:47:25,656 Book owner: 0
+2021-05-05 06:47:25,657 Book price: 12.99
+2021-05-05 06:47:25,657 Employee 1 with username kcho viewed all books:
+2021-05-05 06:47:25,657 Book name: The Complete Plays
+2021-05-05 06:47:25,657 Book author: Christopher Marlowe
+2021-05-05 06:47:25,657 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:47:25,657 Book owner: 2
+2021-05-05 06:47:25,657 Book price: 30.99
+2021-05-05 06:47:25,658 Employee 1 with username kcho viewed all books:
+2021-05-05 06:47:25,658 Book name: Test title
+2021-05-05 06:47:25,658 Book author: Test title
+2021-05-05 06:47:25,658 Book description: Test description
+2021-05-05 06:47:25,658 Book owner: 16
+2021-05-05 06:47:25,658 Book price: 20.99
+2021-05-05 06:48:15,090 Employee logged in as: kcho with password root
+2021-05-05 06:48:16,636 Employee 1 with username kcho viewed all books:
+2021-05-05 06:48:16,636 Book name: The Bible
+2021-05-05 06:48:16,636 Book author: Various, et. al
+2021-05-05 06:48:16,636 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:48:16,636 Book owner: 0
+2021-05-05 06:48:16,637 Book price: 12.99
+2021-05-05 06:48:16,637 Employee 1 with username kcho viewed all books:
+2021-05-05 06:48:16,637 Book name: The Complete Plays
+2021-05-05 06:48:16,637 Book author: Christopher Marlowe
+2021-05-05 06:48:16,637 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:48:16,637 Book owner: 2
+2021-05-05 06:48:16,637 Book price: 30.99
+2021-05-05 06:48:16,637 Employee 1 with username kcho viewed all books:
+2021-05-05 06:48:16,637 Book name: Test title
+2021-05-05 06:48:16,637 Book author: Test title
+2021-05-05 06:48:16,638 Book description: Test description
+2021-05-05 06:48:16,638 Book owner: 16
+2021-05-05 06:48:16,638 Book price: 20.99
+2021-05-05 06:49:08,946 Employee logged in as: kcho with password root
+2021-05-05 06:49:10,028 Employee 1 with username kcho viewed all books:
+2021-05-05 06:49:10,028 Book name: The Bible
+2021-05-05 06:49:10,029 Book author: Various, et. al
+2021-05-05 06:49:10,029 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:49:10,029 Book owner: 0
+2021-05-05 06:49:10,029 Book price: 12.99
+2021-05-05 06:49:10,030 Employee 1 with username kcho viewed all books:
+2021-05-05 06:49:10,030 Book name: The Complete Plays
+2021-05-05 06:49:10,030 Book author: Christopher Marlowe
+2021-05-05 06:49:10,030 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:49:10,030 Book owner: 2
+2021-05-05 06:49:10,030 Book price: 30.99
+2021-05-05 06:49:10,030 Employee 1 with username kcho viewed all books:
+2021-05-05 06:49:10,030 Book name: Test title
+2021-05-05 06:49:10,030 Book author: Test title
+2021-05-05 06:49:10,030 Book description: Test description
+2021-05-05 06:49:10,030 Book owner: 16
+2021-05-05 06:49:10,030 Book price: 20.99
+2021-05-05 06:49:33,165 Employee logged in as: kcho with password root
+2021-05-05 06:49:34,604 Employee 1 with username kcho viewed all books:
+2021-05-05 06:49:34,604 Book name: The Bible
+2021-05-05 06:49:34,604 Book author: Various, et. al
+2021-05-05 06:49:34,604 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:49:34,604 Book owner: 0
+2021-05-05 06:49:34,605 Book price: 12.99
+2021-05-05 06:49:34,605 Employee 1 with username kcho viewed all books:
+2021-05-05 06:49:34,605 Book name: The Complete Plays
+2021-05-05 06:49:34,605 Book author: Christopher Marlowe
+2021-05-05 06:49:34,605 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:49:34,605 Book owner: 2
+2021-05-05 06:49:34,605 Book price: 30.99
+2021-05-05 06:49:34,605 Employee 1 with username kcho viewed all books:
+2021-05-05 06:49:34,605 Book name: Test title
+2021-05-05 06:49:34,605 Book author: Test title
+2021-05-05 06:49:34,605 Book description: Test description
+2021-05-05 06:49:34,605 Book owner: 16
+2021-05-05 06:49:34,605 Book price: 20.99
+2021-05-05 06:49:43,995 Employee 1 with username kcho viewed all books:
+2021-05-05 06:49:43,995 Book name: The Bible
+2021-05-05 06:49:43,995 Book author: Various, et. al
+2021-05-05 06:49:43,995 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:49:43,995 Book owner: 0
+2021-05-05 06:49:43,995 Book price: 12.99
+2021-05-05 06:49:43,995 Employee 1 with username kcho viewed all books:
+2021-05-05 06:49:43,995 Book name: The Complete Plays
+2021-05-05 06:49:43,995 Book author: Christopher Marlowe
+2021-05-05 06:49:43,995 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:49:43,995 Book owner: 2
+2021-05-05 06:49:43,995 Book price: 30.99
+2021-05-05 06:49:43,995 Employee 1 with username kcho viewed all books:
+2021-05-05 06:49:43,995 Book name: Test title
+2021-05-05 06:49:43,995 Book author: Test title
+2021-05-05 06:49:43,995 Book description: Test description
+2021-05-05 06:49:43,995 Book owner: 16
+2021-05-05 06:49:43,995 Book price: 20.99
+2021-05-05 06:51:15,122 Employee 1 with username kcho viewed all books:
+2021-05-05 06:51:15,122 Book name: The Bible
+2021-05-05 06:51:15,122 Book author: Various, et. al
+2021-05-05 06:51:15,122 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:51:15,122 Book owner: 0
+2021-05-05 06:51:15,122 Book price: 12.99
+2021-05-05 06:51:15,122 Employee 1 with username kcho viewed all books:
+2021-05-05 06:51:15,122 Book name: The Complete Plays
+2021-05-05 06:51:15,122 Book author: Christopher Marlowe
+2021-05-05 06:51:15,122 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:51:15,122 Book owner: 2
+2021-05-05 06:51:15,122 Book price: 30.99
+2021-05-05 06:51:15,122 Employee 1 with username kcho viewed all books:
+2021-05-05 06:51:15,122 Book name: Test title
+2021-05-05 06:51:15,122 Book author: Test title
+2021-05-05 06:51:15,122 Book description: Test description
+2021-05-05 06:51:15,122 Book owner: 16
+2021-05-05 06:51:15,122 Book price: 20.99
+2021-05-05 06:53:11,306 Employee 1 with username kcho viewed all books:
+2021-05-05 06:53:11,306 Book name: The Bible
+2021-05-05 06:53:11,306 Book author: Various, et. al
+2021-05-05 06:53:11,306 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:53:11,306 Book owner: 0
+2021-05-05 06:53:11,306 Book price: 12.99
+2021-05-05 06:53:11,306 Employee 1 with username kcho viewed all books:
+2021-05-05 06:53:11,306 Book name: The Complete Plays
+2021-05-05 06:53:11,306 Book author: Christopher Marlowe
+2021-05-05 06:53:11,306 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:53:11,306 Book owner: 2
+2021-05-05 06:53:11,306 Book price: 30.99
+2021-05-05 06:53:11,306 Employee 1 with username kcho viewed all books:
+2021-05-05 06:53:11,306 Book name: Test title
+2021-05-05 06:53:11,306 Book author: Test title
+2021-05-05 06:53:11,306 Book description: Test description
+2021-05-05 06:53:11,306 Book owner: 16
+2021-05-05 06:53:11,306 Book price: 20.99
+2021-05-05 06:53:13,465 Employee 1 with username kcho viewed all books:
+2021-05-05 06:53:13,465 Book name: The Bible
+2021-05-05 06:53:13,465 Book author: Various, et. al
+2021-05-05 06:53:13,465 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 06:53:13,465 Book owner: 0
+2021-05-05 06:53:13,465 Book price: 12.99
+2021-05-05 06:53:13,465 Employee 1 with username kcho viewed all books:
+2021-05-05 06:53:13,465 Book name: The Complete Plays
+2021-05-05 06:53:13,465 Book author: Christopher Marlowe
+2021-05-05 06:53:13,465 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 06:53:13,465 Book owner: 2
+2021-05-05 06:53:13,465 Book price: 30.99
+2021-05-05 06:53:13,465 Employee 1 with username kcho viewed all books:
+2021-05-05 06:53:13,465 Book name: Test title
+2021-05-05 06:53:13,465 Book author: Test title
+2021-05-05 06:53:13,465 Book description: Test description
+2021-05-05 06:53:13,465 Book owner: 16
+2021-05-05 06:53:13,465 Book price: 20.99
+2021-05-05 06:53:18,168 User Id25 added an offer on book name: The Bible
+2021-05-05 06:53:18,168 Of the amount: 12.99
+2021-05-05 06:53:19,722 Current offers for user ID: 25
+2021-05-05 06:53:19,722 Offer ID: 48
+2021-05-05 06:53:19,722 Item name: The Bible
+2021-05-05 06:53:19,722 Book author: Various, et. al
+2021-05-05 06:53:19,722 Price: 12.99
+2021-05-05 10:43:01,332 User was logged in!
+2021-05-05 10:43:01,332 User ID: 2
+2021-05-05 10:43:01,332 Username: kcho
+2021-05-05 10:43:01,332 User password: root
+2021-05-05 10:43:18,217 Employee logged in as: kcho with password root
+2021-05-05 10:44:25,030 Employee signed up as kcho2 with password root
+2021-05-05 10:44:28,766 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:44:28,766 Book name: The Bible
+2021-05-05 10:44:28,766 Book author: Various, et. al
+2021-05-05 10:44:28,766 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:44:28,766 Book owner: 0
+2021-05-05 10:44:28,767 Book price: 12.99
+2021-05-05 10:44:28,767 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:44:28,767 Book name: The Complete Plays
+2021-05-05 10:44:28,767 Book author: Christopher Marlowe
+2021-05-05 10:44:28,767 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 10:44:28,767 Book owner: 2
+2021-05-05 10:44:28,767 Book price: 30.99
+2021-05-05 10:44:28,767 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:44:28,767 Book name: Test title
+2021-05-05 10:44:28,767 Book author: Test title
+2021-05-05 10:44:28,767 Book description: Test description
+2021-05-05 10:44:28,767 Book owner: 16
+2021-05-05 10:44:28,767 Book price: 20.99
+2021-05-05 10:44:38,755 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:44:38,755 Book name: The Bible
+2021-05-05 10:44:38,755 Book author: Various, et. al
+2021-05-05 10:44:38,755 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:44:38,755 Book owner: 0
+2021-05-05 10:44:38,755 Book price: 12.99
+2021-05-05 10:44:38,755 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:44:38,755 Book name: The Complete Plays
+2021-05-05 10:44:38,755 Book author: Christopher Marlowe
+2021-05-05 10:44:38,755 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 10:44:38,755 Book owner: 2
+2021-05-05 10:44:38,755 Book price: 30.99
+2021-05-05 10:44:38,756 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:44:38,756 Book name: Test title
+2021-05-05 10:44:38,756 Book author: Test title
+2021-05-05 10:44:38,756 Book description: Test description
+2021-05-05 10:44:38,756 Book owner: 16
+2021-05-05 10:44:38,756 Book price: 20.99
+2021-05-05 10:44:57,828 Book updated with name (previous): The Bible is now The Bible
+2021-05-05 10:44:57,828 Author(previous): Various, et. al is now Various, et. al
+2021-05-05 10:44:57,828 Price(previous): 12.99 is now 15.99
+2021-05-05 10:44:57,829 Description(previous): The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration. is now The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:44:57,829 1
+2021-05-05 10:44:58,963 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:44:58,963 Book name: The Complete Plays
+2021-05-05 10:44:58,963 Book author: Christopher Marlowe
+2021-05-05 10:44:58,963 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 10:44:58,963 Book owner: 2
+2021-05-05 10:44:58,963 Book price: 30.99
+2021-05-05 10:44:58,963 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:44:58,963 Book name: Test title
+2021-05-05 10:44:58,963 Book author: Test title
+2021-05-05 10:44:58,963 Book description: Test description
+2021-05-05 10:44:58,963 Book owner: 16
+2021-05-05 10:44:58,963 Book price: 20.99
+2021-05-05 10:44:58,963 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:44:58,963 Book name: The Bible
+2021-05-05 10:44:58,963 Book author: Various, et. al
+2021-05-05 10:44:58,963 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:44:58,963 Book owner: 0
+2021-05-05 10:44:58,963 Book price: 15.99
+2021-05-05 10:45:11,580 User was logged in!
+2021-05-05 10:45:11,581 User ID: 2
+2021-05-05 10:45:11,581 Username: kcho
+2021-05-05 10:45:11,581 User password: root
+2021-05-05 10:45:13,231 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:13,231 Book name: The Complete Plays
+2021-05-05 10:45:13,231 Book author: Christopher Marlowe
+2021-05-05 10:45:13,231 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 10:45:13,231 Book owner: 2
+2021-05-05 10:45:13,231 Book price: 30.99
+2021-05-05 10:45:13,231 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:13,231 Book name: Test title
+2021-05-05 10:45:13,231 Book author: Test title
+2021-05-05 10:45:13,231 Book description: Test description
+2021-05-05 10:45:13,231 Book owner: 16
+2021-05-05 10:45:13,231 Book price: 20.99
+2021-05-05 10:45:13,231 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:13,231 Book name: The Bible
+2021-05-05 10:45:13,231 Book author: Various, et. al
+2021-05-05 10:45:13,231 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:45:13,231 Book owner: 0
+2021-05-05 10:45:13,231 Book price: 15.99
+2021-05-05 10:45:17,767 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:17,767 Book name: The Complete Plays
+2021-05-05 10:45:17,767 Book author: Christopher Marlowe
+2021-05-05 10:45:17,767 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 10:45:17,767 Book owner: 2
+2021-05-05 10:45:17,767 Book price: 30.99
+2021-05-05 10:45:17,767 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:17,768 Book name: Test title
+2021-05-05 10:45:17,768 Book author: Test title
+2021-05-05 10:45:17,768 Book description: Test description
+2021-05-05 10:45:17,768 Book owner: 16
+2021-05-05 10:45:17,768 Book price: 20.99
+2021-05-05 10:45:17,768 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:17,768 Book name: The Bible
+2021-05-05 10:45:17,768 Book author: Various, et. al
+2021-05-05 10:45:17,768 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:45:17,768 Book owner: 0
+2021-05-05 10:45:17,768 Book price: 15.99
+2021-05-05 10:45:24,542 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:24,542 Book name: The Complete Plays
+2021-05-05 10:45:24,542 Book author: Christopher Marlowe
+2021-05-05 10:45:24,542 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 10:45:24,543 Book owner: 2
+2021-05-05 10:45:24,543 Book price: 30.99
+2021-05-05 10:45:24,543 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:24,543 Book name: Test title
+2021-05-05 10:45:24,543 Book author: Test title
+2021-05-05 10:45:24,543 Book description: Test description
+2021-05-05 10:45:24,543 Book owner: 16
+2021-05-05 10:45:24,543 Book price: 20.99
+2021-05-05 10:45:24,543 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:24,543 Book name: The Bible
+2021-05-05 10:45:24,543 Book author: Various, et. al
+2021-05-05 10:45:24,543 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:45:24,543 Book owner: 0
+2021-05-05 10:45:24,543 Book price: 15.99
+2021-05-05 10:45:26,073 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:26,073 Book name: The Complete Plays
+2021-05-05 10:45:26,073 Book author: Christopher Marlowe
+2021-05-05 10:45:26,073 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 10:45:26,073 Book owner: 2
+2021-05-05 10:45:26,073 Book price: 30.99
+2021-05-05 10:45:26,073 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:26,073 Book name: Test title
+2021-05-05 10:45:26,073 Book author: Test title
+2021-05-05 10:45:26,073 Book description: Test description
+2021-05-05 10:45:26,073 Book owner: 16
+2021-05-05 10:45:26,073 Book price: 20.99
+2021-05-05 10:45:26,073 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:26,073 Book name: The Bible
+2021-05-05 10:45:26,073 Book author: Various, et. al
+2021-05-05 10:45:26,073 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:45:26,073 Book owner: 0
+2021-05-05 10:45:26,073 Book price: 15.99
+2021-05-05 10:45:26,900 User Id2 added an offer on book name: The Bible
+2021-05-05 10:45:26,901 Of the amount: 15.99
+2021-05-05 10:45:30,741 Current offers for user ID: 2
+2021-05-05 10:45:30,742 Offer ID: 49
+2021-05-05 10:45:30,742 Item name: The Bible
+2021-05-05 10:45:30,742 Book author: Various, et. al
+2021-05-05 10:45:30,742 Price: 15.99
+2021-05-05 10:45:51,304 User was logged in!
+2021-05-05 10:45:51,304 User ID: 1
+2021-05-05 10:45:51,304 Username: qwer
+2021-05-05 10:45:51,304 User password: qwer
+2021-05-05 10:45:53,404 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:53,404 Book name: The Complete Plays
+2021-05-05 10:45:53,404 Book author: Christopher Marlowe
+2021-05-05 10:45:53,404 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 10:45:53,404 Book owner: 2
+2021-05-05 10:45:53,404 Book price: 30.99
+2021-05-05 10:45:53,404 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:53,404 Book name: Test title
+2021-05-05 10:45:53,404 Book author: Test title
+2021-05-05 10:45:53,404 Book description: Test description
+2021-05-05 10:45:53,404 Book owner: 16
+2021-05-05 10:45:53,404 Book price: 20.99
+2021-05-05 10:45:53,404 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:53,404 Book name: The Bible
+2021-05-05 10:45:53,404 Book author: Various, et. al
+2021-05-05 10:45:53,404 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:45:53,404 Book owner: 0
+2021-05-05 10:45:53,405 Book price: 15.99
+2021-05-05 10:45:55,152 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:55,152 Book name: The Complete Plays
+2021-05-05 10:45:55,152 Book author: Christopher Marlowe
+2021-05-05 10:45:55,153 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-05-05 10:45:55,153 Book owner: 2
+2021-05-05 10:45:55,153 Book price: 30.99
+2021-05-05 10:45:55,153 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:55,153 Book name: Test title
+2021-05-05 10:45:55,153 Book author: Test title
+2021-05-05 10:45:55,153 Book description: Test description
+2021-05-05 10:45:55,153 Book owner: 16
+2021-05-05 10:45:55,153 Book price: 20.99
+2021-05-05 10:45:55,153 Employee 1 with username kcho2 viewed all books:
+2021-05-05 10:45:55,153 Book name: The Bible
+2021-05-05 10:45:55,153 Book author: Various, et. al
+2021-05-05 10:45:55,153 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:45:55,153 Book owner: 0
+2021-05-05 10:45:55,153 Book price: 15.99
+2021-05-05 10:45:57,073 User Id1 added an offer on book name: The Bible
+2021-05-05 10:45:57,073 Of the amount: 15.99
+2021-05-05 10:45:58,354 Current offers for user ID: 1
+2021-05-05 10:45:58,354 Offer ID: 50
+2021-05-05 10:45:58,354 Item name: The Bible
+2021-05-05 10:45:58,355 Book author: Various, et. al
+2021-05-05 10:45:58,355 Price: 15.99
+2021-05-05 10:46:04,858 Employee logged in as: kcho with password root
+2021-05-05 10:46:52,751 User was logged in!
+2021-05-05 10:46:52,751 User ID: 1
+2021-05-05 10:46:52,751 Username: qwer
+2021-05-05 10:46:52,752 User password: qwer
+2021-05-05 10:46:57,759 Approved items for User ID: 1
+2021-05-05 10:46:57,760 Name: The Bible
+2021-05-05 10:46:57,760 Author: Various, et. al
+2021-05-05 10:46:57,760 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:46:57,760 Price: 15.99
+2021-05-05 10:47:03,102 Remaining payments for User ID: 1
+2021-05-05 10:47:03,102 Item name: The Bible
+2021-05-05 10:47:03,102 Amount paid: 0.0
+2021-05-05 10:47:03,102 Amount outstanding: 15.99
+2021-05-05 10:47:14,617 Approved items for User ID: 1
+2021-05-05 10:47:14,617 Name: The Bible
+2021-05-05 10:47:14,617 Author: Various, et. al
+2021-05-05 10:47:14,617 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:47:14,617 Price: 15.99
+2021-05-05 10:47:16,054 Remaining payments for User ID: 1
+2021-05-05 10:47:16,054 Item name: The Bible
+2021-05-05 10:47:16,054 Amount paid: 0.0
+2021-05-05 10:47:16,054 Amount outstanding: 15.99
+2021-05-05 10:47:26,451 false
+2021-05-05 10:47:29,379 Approved items for User ID: 1
+2021-05-05 10:47:29,380 Name: The Bible
+2021-05-05 10:47:29,380 Author: Various, et. al
+2021-05-05 10:47:29,380 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:47:29,380 Price: 15.99
+2021-05-05 10:47:35,131 Remaining payments for User ID: 1
+2021-05-05 10:47:35,131 Item name: The Bible
+2021-05-05 10:47:35,131 Amount paid: 0.0
+2021-05-05 10:47:35,131 Amount outstanding: 15.99
+2021-05-05 10:47:39,166 User made a payment of the amount: 10.0 for book ID: 4
+2021-05-05 10:47:39,166 true
+2021-05-05 10:47:41,370 Approved items for User ID: 1
+2021-05-05 10:47:41,370 Name: The Bible
+2021-05-05 10:47:41,370 Author: Various, et. al
+2021-05-05 10:47:41,370 Description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-05-05 10:47:41,370 Price: 15.99
+2021-05-05 10:47:44,829 Remaining payments for User ID: 1
+2021-05-05 10:47:44,829 Item name: The Bible
+2021-05-05 10:47:44,829 Amount paid: 10.0
+2021-05-05 10:47:44,829 Amount outstanding: 5.99
+2021-08-17 17:19:19,252 Quitting app
+2021-08-17 17:28:08,547 User was logged in!
+2021-08-17 17:28:08,547 User ID: 1
+2021-08-17 17:28:08,547 Username: qwer
+2021-08-17 17:28:08,547 User password: qwer
+2021-08-17 17:28:14,797 Employee 0 with username null viewed all books:
+2021-08-17 17:28:14,797 Book name: The Complete Plays
+2021-08-17 17:28:14,797 Book author: Christopher Marlowe
+2021-08-17 17:28:14,797 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-08-17 17:28:14,797 Book owner: 2
+2021-08-17 17:28:14,797 Book price: 30.99
+2021-08-17 17:28:14,797 Employee 0 with username null viewed all books:
+2021-08-17 17:28:14,797 Book name: Test title
+2021-08-17 17:28:14,797 Book author: Test title
+2021-08-17 17:28:14,797 Book description: Test description
+2021-08-17 17:28:14,797 Book owner: 16
+2021-08-17 17:28:14,797 Book price: 20.99
+2021-08-17 17:28:14,797 Employee 0 with username null viewed all books:
+2021-08-17 17:28:14,799 Book name: The Bible
+2021-08-17 17:28:14,799 Book author: Various, et. al
+2021-08-17 17:28:14,799 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-08-17 17:28:14,799 Book owner: 1
+2021-08-17 17:28:14,799 Book price: 15.99
+2021-08-17 17:30:03,650 Employee 0 with username null viewed all books:
+2021-08-17 17:30:03,650 Book name: Discipline & Punish
+2021-08-17 17:30:03,650 Book author: Michel Foucault
+2021-08-17 17:30:03,650 Book description: Foucault explains the alleged failures of the modern prison by showing how the very concern with rehabilitation encourages and refines criminal activity.
+2021-08-17 17:30:03,650 Book owner: 16
+2021-08-17 17:30:03,650 Book price: 20.99
+2021-08-17 17:30:03,650 Employee 0 with username null viewed all books:
+2021-08-17 17:30:03,650 Book name: The Complete Plays
+2021-08-17 17:30:03,650 Book author: Christopher Marlowe
+2021-08-17 17:30:03,650 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-08-17 17:30:03,650 Book owner: 2
+2021-08-17 17:30:03,650 Book price: 30.99
+2021-08-17 17:30:03,650 Employee 0 with username null viewed all books:
+2021-08-17 17:30:03,650 Book name: The Bible
+2021-08-17 17:30:03,650 Book author: Various, et. al
+2021-08-17 17:30:03,650 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-08-17 17:30:03,650 Book owner: 1
+2021-08-17 17:30:03,650 Book price: 15.99
+2021-08-17 17:30:20,845 Employee 0 with username null viewed all books:
+2021-08-17 17:30:20,845 Book name: Discipline & Punish
+2021-08-17 17:30:20,845 Book author: Michel Foucault
+2021-08-17 17:30:20,845 Book description: Foucault explains the alleged failures of the modern prison by showing how the very concern with rehabilitation encourages and refines criminal activity.
+2021-08-17 17:30:20,845 Book owner: 16
+2021-08-17 17:30:20,845 Book price: 20.99
+2021-08-17 17:30:20,845 Employee 0 with username null viewed all books:
+2021-08-17 17:30:20,845 Book name: The Complete Plays
+2021-08-17 17:30:20,845 Book author: Christopher Marlowe
+2021-08-17 17:30:20,845 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-08-17 17:30:20,845 Book owner: 2
+2021-08-17 17:30:20,845 Book price: 30.99
+2021-08-17 17:30:20,845 Employee 0 with username null viewed all books:
+2021-08-17 17:30:20,845 Book name: The Bible
+2021-08-17 17:30:20,845 Book author: Various, et. al
+2021-08-17 17:30:20,845 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-08-17 17:30:20,845 Book owner: 1
+2021-08-17 17:30:20,845 Book price: 15.99
+2021-08-17 17:30:22,085 Employee 0 with username null viewed all books:
+2021-08-17 17:30:22,085 Book name: Discipline & Punish
+2021-08-17 17:30:22,085 Book author: Michel Foucault
+2021-08-17 17:30:22,085 Book description: Foucault explains the alleged failures of the modern prison by showing how the very concern with rehabilitation encourages and refines criminal activity.
+2021-08-17 17:30:22,086 Book owner: 16
+2021-08-17 17:30:22,086 Book price: 20.99
+2021-08-17 17:30:22,086 Employee 0 with username null viewed all books:
+2021-08-17 17:30:22,086 Book name: The Complete Plays
+2021-08-17 17:30:22,086 Book author: Christopher Marlowe
+2021-08-17 17:30:22,086 Book description: Marlowe's seven plays dramatise the fatal lure of potent forces, whether religious, occult or erotic. In the victories of Tamburlaine, Faustus's encounters with the demonic, the irreverence of Barabas in The Jew of Malta, and the humiliation of Edward II in his fall from power and influence, Marlowe explores the shifting balance between power and helplessness, the sacred and its desecration.
+2021-08-17 17:30:22,086 Book owner: 2
+2021-08-17 17:30:22,086 Book price: 30.99
+2021-08-17 17:30:22,086 Employee 0 with username null viewed all books:
+2021-08-17 17:30:22,086 Book name: The Bible
+2021-08-17 17:30:22,086 Book author: Various, et. al
+2021-08-17 17:30:22,086 Book description: The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books") is a collection of religious texts or scriptures sacred to Christians, Jews, Samaritans, Rastafari and others. It appears in the form of an anthology, a compilation of texts of a variety of forms that are all linked by the belief that they are collectively revelations of God. These texts include theologically-focused historical accounts, hymns, prayers, proverbs, parables, didactic letters, poetry, and prophecies. Believers also generally consider the Bible to be a product of divine inspiration.
+2021-08-17 17:30:22,086 Book owner: 1
+2021-08-17 17:30:22,086 Book price: 15.99
+2021-08-17 17:31:08,713 Employee logged in as: kcho with password root

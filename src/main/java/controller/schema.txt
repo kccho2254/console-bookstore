@@ -1,0 +1,10 @@
+-- adding foreign keys to existing table
+
+ALTER TABLE bookschema.system 
+ADD COLUMN "owner" int,
+ADD CONSTRAINT "fk_owner" FOREIGN KEY ("owner")
+REFERENCES bookschema.customer("id")
+
+-- remove auto incrementing on primary keys
+TRUNCATE bookschema.system RESTART IDENTITY CASCADE
+

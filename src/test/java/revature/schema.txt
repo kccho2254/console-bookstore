@@ -1,0 +1,93 @@
+-- bookschema.customer definition
+
+-- Drop table
+
+-- DROP TABLE bookschema.customer;
+
+CREATE TABLE bookschema.customer (
+	id serial NOT NULL,
+	username varchar(100) NOT NULL,
+	"password" varchar(100) NOT NULL,
+	CONSTRAINT customer_pkey PRIMARY KEY (id),
+	CONSTRAINT customer_un UNIQUE (username)
+);
+
+-- bookschema.employee definition
+
+-- Drop table
+
+-- DROP TABLE bookschema.employee;
+
+CREATE TABLE bookschema.employee (
+	employee_id serial NOT NULL,
+	username varchar(100) NOT NULL,
+	"password" varchar(100) NOT NULL,
+	CONSTRAINT employee_pkey PRIMARY KEY (employee_id),
+	CONSTRAINT employee_un UNIQUE (username)
+);
+
+-- bookschema.offer definition
+
+-- Drop table
+
+-- DROP TABLE bookschema.offer;
+
+CREATE TABLE bookschema.offer (
+	id serial NOT NULL,
+	sid int4 NOT NULL,
+	cid int4 NOT NULL,
+	approved bool NOT NULL,
+	remainder float8 NOT NULL,
+	CONSTRAINT offer_pkey PRIMARY KEY (id)
+);
+
+
+-- bookschema.offer foreign keys
+
+ALTER TABLE bookschema.offer ADD CONSTRAINT fk_cid FOREIGN KEY (cid) REFERENCES bookschema.customer(id) ON DELETE CASCADE ON UPDATE CASCADE;
+ALTER TABLE bookschema.offer ADD CONSTRAINT offer_fk FOREIGN KEY (sid) REFERENCES bookschema."system"(id) ON DELETE CASCADE ON UPDATE CASCADE;
+
+-- bookschema."system" definition
+
+-- Drop table
+
+-- DROP TABLE bookschema."system";
+
+CREATE TABLE bookschema."system" (
+	id serial NOT NULL,
+	"name" varchar(100) NOT NULL,
+	author varchar(100) NOT NULL,
+	price float8 NOT NULL,
+	"owned" bool NULL,
+	descr varchar(10000) NOT NULL,
+	"owner" int4 NULL,
+	CONSTRAINT system_pkey PRIMARY KEY (id)
+);
+
+
+-- bookschema."system" foreign keys
+
+ALTER TABLE bookschema."system" ADD CONSTRAINT fk_owner FOREIGN KEY ("owner") REFERENCES bookschema.customer(id) ON UPDATE CASCADE;
+
+-- bookschema.payments definition
+
+-- Drop table
+
+-- DROP TABLE bookschema.payments;
+
+CREATE TABLE bookschema.payments (
+	id serial NOT NULL,
+	remainder float8 NOT NULL,
+	amount float8 NOT NULL,
+	cid int4 NOT NULL,
+	sid int4 NOT NULL,
+	CONSTRAINT check_remainder CHECK ((remainder >= (0)::double precision)),
+	CONSTRAINT payments_pk PRIMARY KEY (id),
+	CONSTRAINT payments_un UNIQUE (sid)
+);
+
+
+-- bookschema.payments foreign keys
+
+ALTER TABLE bookschema.payments ADD CONSTRAINT payments_fk FOREIGN KEY (sid) REFERENCES bookschema."system"(id);
+ALTER TABLE bookschema.payments ADD CONSTRAINT payments_fk_1 FOREIGN KEY (cid) REFERENCES bookschema.customer(id);
