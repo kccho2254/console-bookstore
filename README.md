@@ -1,4 +1,4 @@
-# Console Bookstore
+# Some kind of Bookstore
 
 
 
